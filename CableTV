@@ -27,6 +27,13 @@ http://181.188.234.21:8000/play/a043
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKZkBVQt/amazonica.png" group-title="→ ENTRETENIMIENTO ←",AMAZONICA TV PE
+http://179.1.147.210:5000/play/a06t
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE/SERIES ←",AMC
 https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE/SERIES ←",AMC
@@ -578,8 +585,8 @@ http://200.229.147.142:8000/play/a07m
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1p4r6L/Clover-Channel.png" group-title="→ CINE/SERIES ←",CLOVER CHANNEL
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1p4r6L/Clover-Channel.png" group-title="→ CINE/SERIES ←",CLOVER CHANNEL HD
+http://179.1.147.210:5000/play/a05y
 
 
 
@@ -618,7 +625,7 @@ http://45.71.254.1:8000/play/a0dx
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLJK7jkt/cositel.png" group-title="→ ENTRETENIMIENTO ←",COSITEL TV
-
+http://179.1.147.210:5000/play/a063
 
 
 
@@ -633,6 +640,13 @@ http://38.44.109.41:8003/play/a028
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPYncjxp/Cuatro.png" group-title="→ ENTRETENIMIENTO ←",CUATRO HD
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDKL3cK9/dgope.png" group-title="→ ENTRETENIMIENTO ←",D GO TV PE
+http://179.1.147.210:5000/play/a00k
 
 
 
@@ -1313,14 +1327,14 @@ http://45.71.254.1:8000/play/a0au
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpL3TvmP/liga1max.png" group-title="→ DEPORTES ←",LIGA 1 MAX
-
+http://179.1.147.210:5000/play/a06f
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRgR577d/like.png" group-title="→ ENTRETENIMIENTO ←",LIKE TV LIMA
-
+http://179.1.147.210:5000/play/a06x
 
 
 
@@ -1355,7 +1369,7 @@ http://205.235.6.29:8000/play/a0m7/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cc4brvPN/megatvp.png" group-title="→ ENTRETENIMIENTO ←",MEGA TV AREQUIPA
-
+http://179.1.147.210:5000/play/a06u
 
 
 
@@ -1519,6 +1533,13 @@ http://200.115.96.61:9090/play/a067
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz5cP7Mm/qtv.jpg" group-title="→ ENTRETENIMIENTO ←",QTV PE
+http://179.1.147.210:5000/play/a03v
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/61qwY78/rcn.png" group-title="→ ENTRETENIMIENTO ←",RCN HD
 http://38.44.109.41:8003/play/a00y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/61qwY78/rcn.png" group-title="→ ENTRETENIMIENTO ←",RCN
@@ -1588,6 +1609,13 @@ http://181.189.244.253:8000/play/a03h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jM7mb0P/rtva.png" group-title="→ ENTRETENIMIENTO ←",RTVA
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GHKjsnn/selvatv.png" group-title="→ ENTRETENIMIENTO ←",SELVA TV PE
+http://179.1.147.210:5000/play/a072
 
 
 
@@ -1802,7 +1830,7 @@ http://190.61.55.107:8000/play/a03c
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gSJ3qWx/telelima.png" group-title="→ ENTRETENIMIENTO ←",TELELIMA
-
+http://179.1.147.210:5000/play/a05k
 
 
 
@@ -1992,7 +2020,7 @@ http://200.115.96.61:9090/play/a006
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Tb9xR3/logo-tv-en-linea-cusco.png" group-title="→ ENTRETENIMIENTO ←",TV EN LINEA CUSCO
-
+http://179.1.147.210:5000/play/a076
 
 
 
@@ -2232,7 +2260,7 @@ http://205.235.6.29:8000/play/a0jh/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C554XPW1/western.png" group-title="→ CINE/SERIES ←",WEST
-
+http://179.1.147.210:5000/play/a07k
 
 
 
@@ -3758,6 +3786,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/36tv/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbPxh7Y/AUNO.png" group-title="→ PERU ←",A UNO
 https://live-evg25.tv360.bitel.com.pe/bitel/auno/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbPxh7Y/AUNO.png" group-title="→ PERU ←",A UNO
+https://play.agenciastreaming.com:8081/antena1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD9B59b/1uLGa3w.png" group-title="→ PERU ←",AGRO TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD9B59b/1uLGa3w.png" group-title="→ PERU ←",AGRO TV
@@ -3826,6 +3856,10 @@ https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL 8 CATACAOS " tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="→ PERU ←",CANAL 8 CATACAOS
 https://live.obslivestream.com/canal8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HJFdqSF/canal9oxapampa.png" group-title="→ PERU ←", CANAL 9 SELVA CENTRAL
+https://play.agenciastreaming.com:8081/canal9selvacentral/index.m3u8
+
 #EXTINF:-1 tvg-name="CANAL 25 AYACUCHO " tvg-logo="https://i.ibb.co/wQNjStt/294678044-998183077689831-3608501390365130613-n.png" group-title="→ PERU ←",CANAL 25 AYACUCHO
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JFj1p7kM/mtvcanal41.png" group-title="→ PERU ←",CANAL 41 MTV
@@ -3911,6 +3945,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/huantatv/playlist.m3u8?
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-name="IMPACTO TV " tvg-logo="https://i.ibb.co/k2Q3PYnK/inkavision.png" group-title="→ PERU ←",INKA VISION
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/playlist.m3u8?
+#EXTINF:-1 tvg-name="IMPACTO TV " tvg-logo="https://i.ibb.co/k2Q3PYnK/inkavision.png" group-title="→ PERU ←",INKA VISION
+https://play.agenciastreaming.com:8081/inkavision/index.m3u8
+
 #EXTINF:-1 tvg-name="IMPACTO TV " tvg-logo="https://i.ibb.co/F47JzR0x/La-Tele.png" group-title="→ PERU ←",LA TELE PE
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-name="LATINA TV " tvg-logo="https://i.ibb.co/MfT1MvZ/8Hvk59N.png" group-title="→ PERU ←",LATINA TV
@@ -3929,6 +3966,7 @@ https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MEGA TV AREQUIPA " tvg-logo="https://i.ibb.co/K7NgpzK/megatv.png" group-title="→ PERU ←",MEGA TV AREQUIPA
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
+
 #EXTINF:-1 tvg-name="MEGA TV JAEN " tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="→ PERU ←",MEGA TV JAEN
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-name="MEGA TV PASCO " tvg-logo="https://i.ibb.co/RDJ8QKR/bcd7cc28e389-640-360.png" group-title="→ PERU ←",MEGA TV PASCO
