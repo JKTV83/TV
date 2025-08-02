@@ -4561,7 +4561,7 @@ https://amogo-networx-grjngopelculasdeloeste-1-es.lg.wurl.tv/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-name="MI TV USA " tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="→ VARIADAS LATAM ←",MI TV USA
-https://5aa8c7549bfa9.streamlock.net/live/livestream123/playlist.m3u8
+https://mitv.getstreamhosting.com:19360/livestream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxKbLb0/octopustv.png" group-title="→ VARIADAS LATAM ←",OCTOPUS TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/octopustv/playlist.m3u8
