@@ -1792,7 +1792,7 @@ http://200.115.96.61:9090/play/a0j6
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6BNmYj/F17zNXh.png" group-title="→ ENTRETENIMIENTO ←",TELECENTRO RD
-
+http://45.195.110.6:8000/play/a03n
 
 
 
@@ -2440,6 +2440,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mGM2gQ8/344752062-199637752395436-5824673697966518474-n.png" group-title="→ ARGENTINA ←",GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kgr3zQ9/factorych.png" group-title="→ ARGENTINA ←",FACTORY CHANNEL CANAL 11
+https://videostream.shockmedia.com.ar:19360/factorylaverde/factorylaverde.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bhYprH/302141183-444127411088071-5026894568496820802-n.png" group-title="→ ARGENTINA ←",FIVE TV
 https://panel.dattalive.com:443/8118/8118/playlist.m3u8
@@ -3385,6 +3388,10 @@ https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-name="TVC ECUADOR " tvg-logo="https://i.ibb.co/n1CRW4m/k6h5Cz2.png" group-title="→ ECUADOR ←",TVC ECUADOR
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JDr9t4R/ucsg.png" group-title="→ ECUADOR ←",UCSG
+https://stream.catomedia.net/catomedia-app/index.m3u8
+
 #EXTINF:-1 tvg-name="UNIANDES RADIO TV " tvg-logo="https://i.ibb.co/KbXNQKK/1rluyB7.png" group-title="→ ECUADOR ←",UNIANDES RADIO TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/395mh77c/UNO.png" group-title="→ ECUADOR ←",UNO
@@ -3684,6 +3691,10 @@ https://2-fss-2.streamhoster.com/pl_138/206854-5158930-1/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fxjTN3C/PMTV-2-MX.png" group-title="→ MEXICO ←",PRESUMIENDO TV
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3JTX3F9/queretarotv.png" group-title="→ MEXICO ←",QUERETARO TV
+https://5f700d5b2c46f.streamlock.net/queretaro/queretaro/playlist.m3u8
+
 #EXTINF:-1 tvg-name="SMRTV " tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="→ MEXICO ←",SMRTV
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/chunklist_w2134950774.m3u8
 #EXTINF:-1 tvg-name="SUPER CHANNEL 12 " tvg-logo="https://i.ibb.co/rwy9G9f/dLHIvKz.png" group-title="→ MEXICO ←",SUPER CHANNEL 12
