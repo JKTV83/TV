@@ -2041,9 +2041,9 @@ http://179.1.147.210:5000/play/a076
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ DEPORTES ←",TVC EC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
 http://38.44.109.41:8003/play/a029
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ DEPORTES ←",TVC EC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
 http://205.235.6.29:8000/play/a0lw/index.m3u8
 
 
