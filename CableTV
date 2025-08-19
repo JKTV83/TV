@@ -846,6 +846,8 @@ http://38.44.109.41:8003/play/a038
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
+http://201.219.11.179:8005/play/a2ws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://205.235.6.29:8000/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://205.235.6.29:8000/play/a0nx/index.m3u8
@@ -2289,6 +2291,8 @@ http://38.44.109.41:8003/play/a032
 http://160.20.165.246:8000/play/a021
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://177.234.230.206:8011/play/a09z
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://181.224.89.128:5180/play/a0ei
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://205.235.6.29:8000/play/a0ny/index.m3u8
 
