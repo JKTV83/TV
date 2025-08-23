@@ -690,13 +690,13 @@ http://179.51.136.19:8000/play/DSPORTS1
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
 http://179.51.136.19:8000/play/a113
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
+http://205.235.6.29:8000/play/a0nq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
 http://181.78.106.127:9000/play/ca026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
 http://179.51.136.19:8000/play/a112
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
-http://205.235.6.29:8000/play/a0nr/index.m3u8
 
 
 
@@ -847,10 +847,6 @@ http://38.44.109.41:8003/play/a038
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://201.219.11.179:8005/play/a2ws
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
-http://205.235.6.29:8000/play/a0mf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
-http://205.235.6.29:8000/play/a0nx/index.m3u8
 
 
 
@@ -2041,9 +2037,9 @@ http://179.1.147.210:5000/play/a076
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ DEPORTES ←",TVC EC
 http://38.44.109.41:8003/play/a029
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ DEPORTES ←",TVC EC
 http://205.235.6.29:8000/play/a0lw/index.m3u8
 
 
@@ -2293,8 +2289,6 @@ http://160.20.165.246:8000/play/a021
 http://177.234.230.206:8011/play/a09z
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://181.224.89.128:5180/play/a0ei
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
-http://205.235.6.29:8000/play/a0ny/index.m3u8
 
 
 
@@ -4599,6 +4593,9 @@ http://monstertv.site:8080/live/connie.belyeu2024@yahoo.com/mc8BkKYsgw2h&type/97
 https://ov-cnm-cn.ottera.tv/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index_11.m3u8
 #EXTINF:-1 tvg-name="CANELA TV CINE MEX" tvg-logo="https://i.ibb.co/nPn8dxr/canelatv-logo.png" group-title="→ VARIADAS LATAM ←",CANELA TV CINE MEX
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/ad75d9f5-3961-49df-a4fb-32160eddbcb0/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6vDD2yD/cindie.png" group-title="→ VARIADAS LATAM ←",CINDIE TV
+https://d2r0e8ouimuhx2.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RokuApp-MuxIP-CINDIE/501ed9c2-8692-45d1-92eb-4d59c14c993e/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqkX8Qys/cine53.png" group-title="→ VARIADAS LATAM ←",CINE 53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
