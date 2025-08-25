@@ -3380,6 +3380,10 @@ https://stream.gia.tv/giatv/giatv-mystreamtetv/mystreamtetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRONCAL LIVE " tvg-logo="https://i.ibb.co/kgR9P00/271921924-4628050190641265-6408519932923976323-n.png" group-title="→ ECUADOR ←",TRONCAL LIVE
 https://troncalive.site/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgR9P00/271921924-4628050190641265-6408519932923976323-n.png" group-title="→ ECUADOR ←",TRONCAL LIVE
+https://troncalive.site/live/stream.m3u8
+
 #EXTINF:-1 tvg-name="TV AUSTRO " tvg-logo="https://i.ibb.co/bBjHtwY/i6JTL7W.png" group-title="→ ECUADOR ←",TV AUSTRO
 https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP3LJSy6/tvcolor.png" group-title="→ ECUADOR ←",TV COLOR CANAL 36
