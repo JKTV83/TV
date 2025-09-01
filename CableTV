@@ -844,6 +844,8 @@ http://205.235.6.29:8000/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://38.44.109.41:8003/play/a038
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
+http://45.224.150.142:8090/play/a02u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://201.219.11.179:8005/play/a2ws
@@ -1423,7 +1425,7 @@ http://205.235.6.29:8000/play/a0ne/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO ←",NEX HD PA
-http://190.35.54.219:8000/play/a00j
+http://190.35.196.251:8000/play/a00j
 
 
 
@@ -1563,6 +1565,8 @@ http://38.44.109.41:8003/play/a02g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO ←",RPC HD PA
 http://tv.zapping.life:8080/live/gutierrezpablo1/Gfk6LH4b2u/8416.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO ←",RPC HD PA
+http://190.35.196.251:8000/play/a0c1
 
 
 
@@ -1836,6 +1840,8 @@ http://179.1.147.210:5000/play/a05k
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GXvthdr/telemetro.png" group-title="→ ENTRETENIMIENTO ←",TELEMETRO HD PAN
 http://tv.zapping.life:8080/live/gutierrezpablo1/Gfk6LH4b2u/8423.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GXvthdr/telemetro.png" group-title="→ ENTRETENIMIENTO ←",TELEMETRO HD PAN
+http://190.35.196.251:8000/play/a00o
 
 
 
@@ -2071,6 +2077,8 @@ http://181.78.99.187:8000/play/a0nx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO ←",TVMAX HD PA
 http://tv.zapping.life:8080/live/gutierrezpablo1/Gfk6LH4b2u/8427.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO ←",TVMAX HD PA
+http://190.35.196.251:8000/play/a00m
 
 
 
@@ -2084,6 +2092,8 @@ http://45.71.254.1:8000/play/a0n7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4CTxty9/TVN-Pa.png" group-title="→ ENTRETENIMIENTO ←",TVN HD PAN
 http://tv.zapping.life:8080/live/gutierrezpablo1/Gfk6LH4b2u/8430.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4CTxty9/TVN-Pa.png" group-title="→ ENTRETENIMIENTO ←",TVN HD PAN
+http://190.35.196.251:8000/play/a0c2
 
 
 
