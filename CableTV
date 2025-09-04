@@ -3533,10 +3533,10 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1 tvg-name="CANAL 57 RTV " tvg-logo="https://i.ibb.co/Pm92kb8/tnOGWqL.png" group-title="→ EL SALVADOR ←",CANAL 57 RTV
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
-#EXTINF:-1 tvg-name="TUTV CANAL 11 ESA " tvg-logo="http://www.canal11.com.sv/logo11.png" group-title="→ EL SALVADOR ←",TUTV CANAL 11 ESA
-https://stream.giostreaming.net:19360/canal11/canal11.m3u8
-#EXTINF:-1 tvg-name="TCS + " tvg-logo="https://i.ibb.co/k3cpKjP/iYFWG06.png" group-title="→ EL SALVADOR ←",TCS +
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k3cpKjP/iYFWG06.png" group-title="→ EL SALVADOR ←",TCS +
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5h2xJHcf/Tutvcanal11.png" group-title="→ EL SALVADOR ←",TUTV CANAL 11
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-name="TVC NETWORK " tvg-logo="https://i.ibb.co/17VfL3X/S1xiWB3.png" group-title="→ EL SALVADOR ←",TVC NETWORK
@@ -3825,7 +3825,7 @@ https://cloudvideo.servers10.com:8081/8112/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="APOLO 11 TV " tvg-logo="https://www.hispanatv.com/img/tv/apolo11.png" group-title="→ NICARAGUA ←",APOLO 11 TV
 https://cdn.chunklistv.com/Apolo11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="CANAL 4 " tvg-logo="https://i.ibb.co/2nTQvXJ/nhgtZdt.png" group-title="→ NICARAGUA ←",CANAL 4
-http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(6YsfxzAbqMgdAz41oUlJnP8iROCvnU6sh96rCBvBgwwi0RD8l7_ktXgjHtWhvvqpnCdgbQzAw1OPELGN_QvwX6uNFtTxhteTzXdjLohfWJGzvCZ3vt4tfmqeplT28I34)/dm/3/x7rwv8c/s/live-480.m3u8#cell=lcf-eu-north-1a
 #EXTINF:-1 tvg-name="FABULOSA TV " tvg-logo="https://www.radiofabulosafm.com/img/logo.png" group-title="→ NICARAGUA ←",FABULOSA TV
 https://fl1002.bozztv.com/ssh101/fabulosatv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LA LIBERTAD TV " tvg-logo="https://www.hispanatv.com/img/tv/LBTV-5-NI.png" group-title="→ NICARAGUA ←",LA LIBERTAD TV
@@ -3883,6 +3883,10 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/ucchullo/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="MITV " tvg-logo="https://cdn.m3u.cl/logo/819_Mi_TV.png" group-title="→ PARAGUAY ←",MITV
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w1151243919.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbV7TWY7/next.png" group-title="→ PARAGUAY ←",NEXT HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 #EXTINF:-1 tvg-name="PILAR TV " tvg-logo="https://i.ibb.co/Jpt59Jq/images.jpg" group-title="→ PARAGUAY ←",PILAR TV
 https://ssh101-fl.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
 
@@ -4399,6 +4403,10 @@ https://f.gmsiptv.com/ba77e358-fbf4-4869-9e47-fc57c57d48e6_output_0.m3u8
 https://fl1002.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
 #EXTINF:-1 tvg-name="DOMINIO TV " tvg-logo="https://i.ibb.co/pf88PpC/307936134-510183561112107-5485690067219421321-n.png" group-title="→ REP.DOM. ←",DOMINIO TV
 https://s.emisoras.tv:8081/dtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgNpDX6R/pituco.png" group-title="→ REP.DOM. ←",EL PITUCO TV
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
 #EXTINF:-1 tvg-name="EL SEIS " tvg-logo="https://i.ibb.co/NnSBVPk/Diseno-sin-titulo-150x150.png" group-title="→ REP.DOM. ←",EL SEIS
 https://5790d294af2dc.streamlock.net:443/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-name="ENTELEVISION " tvg-logo="https://i.ibb.co/0cqT69m/gVtLpMD.png" group-title="→ REP.DOM. ←",ENTELEVISION
@@ -4606,6 +4614,9 @@ https://fl1001.bozztv.com/ssh101/conectadostvnew/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="CTV " tvg-logo="https://i.ibb.co/9G676J7/LBI2la0.png" group-title="→ VENEZUELA ←",CTV
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p64qjVd9/globaltv.png" group-title="→ VENEZUELA ←",GLOBAL TV
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+
 #EXTINF:-1 tvg-name="CTV " tvg-logo="https://i.ibb.co/wN57PT49/islatv.png" group-title="→ VENEZUELA ←",ISLA TV
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 
@@ -4625,6 +4636,10 @@ https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-name="REFORMA TV " tvg-logo="https://i.ibb.co/Wypd1SR/REFORMATV-n.png" group-title="→ VENEZUELA ←",REFORMA TV
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w589025926.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7Kt6tyN/siembra.png" group-title="→ VENEZUELA ←",SIEMBRA TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w2065525458.m3u8
+
 #EXTINF:-1 tvg-name="SOMOS TV " tvg-logo="https://i.ibb.co/Dt7X6Dx/Somos-TV-logo-white.png" group-title="→ VENEZUELA ←",SOMOS TV
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 
@@ -4665,6 +4680,9 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-name="UNITV" tvg-logo="https://i.ibb.co/cxQx4SN/KLGeznX.png" group-title="→ VENEZUELA ←",UNITV
 https://vcp6.myplaytv.com/unitv/unitv/chunklist_w1153101862.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxQx4SN/KLGeznX.png" group-title="→ VENEZUELA ←",UNITV
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gVMgWx/venevision.png" group-title="→ VENEZUELA ←",VENEVISION
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
