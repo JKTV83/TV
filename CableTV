@@ -8,6 +8,8 @@ http://45.71.254.1:8000/play/a0br
 http://190.7.192.162:8001/play/s2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO ←",11 REPRETEL
 http://45.71.254.1:8000/play/a0bs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO ←",11 HD REPRETEL
+http://190.7.192.164:8018/play/s45
 
 
 
