@@ -780,9 +780,9 @@ http://205.235.6.29:8000/play/a0nq/index.m3u8
 http://179.51.136.19:8000/play/a113
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
 http://181.78.106.127:9000/play/ca026
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
 http://179.51.136.19:8000/play/a112
 
