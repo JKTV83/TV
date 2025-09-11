@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="→ CINE/SERIES ←",+ CINE
-http://38.252.213.10:9000/play/a057
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="→ CINE/SERIES ←",+ CINE CLASSIC
-http://38.252.213.10:9000/play/a05t
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="→ CINE/SERIES ←",+ CINE FAMILY
-http://38.252.213.10:9000/play/a06y
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdYPGP0/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO ←",4 REPRETEL
 http://45.71.254.1:8000/play/a0cs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO ←",6 REPRETEL
@@ -758,14 +749,17 @@ http://179.1.147.210:5000/play/a00k
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
-http://38.44.109.41:8003/play/a047
+http://38.7.24.173:8000/play/a045
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
+http://38.44.109.41:8003/play/a02h
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
 http://45.71.254.1:8000/play/a0p0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
 http://167.250.223.27:8085/play/a00b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
-http://181.78.16.75:8000/play/a053
+http://181.78.16.75:8000/play/a069
 
 
 
@@ -1470,6 +1464,8 @@ http://138.121.114.34:8000/play/a1ct
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO ←",LATINA HD
 http://205.235.6.29:8000/play/a0kt/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO ←",LATINA HD
+http://45.230.198.56:8000/play/a01k
 
 
 
@@ -2578,9 +2574,9 @@ http://179.1.147.210:5000/play/a07k
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO ←",WILLAX PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ CINE/SERIES ←",WILLAX PE
 http://38.183.182.166:8000/play/a0zn
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO ←",WILLAX HD PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ CINE/SERIES ←",WILLAX HD PE
 http://38.183.182.166:8000/play/a10g
 
 
