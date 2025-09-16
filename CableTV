@@ -122,6 +122,9 @@ http://45.71.254.1:8000/play/a0pb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1R3TwY2/ATV.png" group-title="→ ENTRETENIMIENTO ←",ATV
 http://45.71.254.1:8000/play/a030
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnN0WNb3/ATV-Sur.png" group-title="→ ENTRETENIMIENTO ←",ATV SUR
+http://38.44.109.41:8003/play/a02r
+
 
 
 
@@ -192,6 +195,8 @@ http://201.230.121.85:8000/play/a0ol
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWB61HZ/bandamax.png" group-title="→ MUSICA ←",BANDAMAX
+http://38.44.109.41:8003/play/a04a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWB61HZ/bandamax.png" group-title="→ MUSICA ←",BANDAMAX
 http://200.115.96.61:9090/play/a07z
 
@@ -2602,6 +2607,8 @@ http://38.44.109.41:8003/play/a032
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://38.44.109.41:8003/play/a01j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://160.20.165.246:8000/play/a021
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
