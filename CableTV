@@ -54,6 +54,8 @@ https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
 http://38.44.109.41:8003/play/a02a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE/SERIES ←",AMC HD
 http://38.183.182.166:8000/play/a0vm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE/SERIES ←",AMC
+http://177.53.214.168:9701/play/50
 
 
 
@@ -67,6 +69,8 @@ http://190.52.105.146:8000/play/a067
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LD5TsxjX/Am-rica-TV.png" group-title="→ ENTRETENIMIENTO ←",AMERICA TV HD AR
 http://138.121.114.34:8000/play/a1br
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD5TsxjX/Am-rica-TV.png" group-title="→ ENTRETENIMIENTO ←",AMERICA TV HD AR
+http://177.53.214.168:9701/play/39
 
 
 
@@ -124,6 +128,12 @@ http://45.71.254.1:8000/play/a030
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnN0WNb3/ATV-Sur.png" group-title="→ ENTRETENIMIENTO ←",ATV SUR
 http://38.44.109.41:8003/play/a02r
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNcGzLKS/autonomatv.png" group-title="→ ENTRETENIMIENTO ←",AUTONOMA TV CH
+http://179.57.171.184:8000/play/a018
 
 
 
@@ -2044,7 +2054,7 @@ http://200.115.96.61:9090/play/a0j6
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B62xtLH/Telecanal.png" group-title="→ ENTRETENIMIENTO ←",TELECANAL
-
+http://179.56.190.187:8000/play/a1mt
 
 
 
@@ -2579,9 +2589,9 @@ http://179.1.147.210:5000/play/a07k
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ CINE/SERIES ←",WILLAX PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO ←",WILLAX PE
 http://38.183.182.166:8000/play/a0zn
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ CINE/SERIES ←",WILLAX HD PE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO ←",WILLAX HD PE
 http://38.183.182.166:8000/play/a10g
 
 
