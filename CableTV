@@ -613,6 +613,8 @@ http://38.44.109.41:8003/play/a02f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjLtS3HG/Ciudad-magazine.png" group-title="→ ENTRETENIMIENTO ←",CIUDAD MAGAZINE AR
 http://45.5.151.251:8000/play/a00e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjLtS3HG/Ciudad-magazine.png" group-title="→ ENTRETENIMIENTO ←",CIUDAD MAGAZINE AR
+http://45.71.38.3:8010/play/a0l7
 
 
 
@@ -987,9 +989,14 @@ http://38.44.109.41:8003/play/a038
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://45.224.150.142:8090/play/a02u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
+http://157.100.9.51:8000/play/a1j1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://201.219.11.179:8005/play/a2ws
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVMkTWyh/ECDF-2.png" group-title="→ DEPORTES ←",ECDF 2
+http://45.171.108.252:8000/play/a00z
 
 
 
