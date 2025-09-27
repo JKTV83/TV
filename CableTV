@@ -826,6 +826,8 @@ http://179.51.136.19:8000/play/a112
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS +
 http://38.190.101.128:2233/play/a1ez
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS +
+http://38.199.5.160:8000/play/a09q
 
 
 
@@ -1175,6 +1177,12 @@ http://205.235.6.29:8000/play/a0ls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3P53GL/Europa-Europa.png" group-title="→ CINE/SERIES ←",EUROPA EUROPA HD
 http://138.97.142.34:8125/play/a08v
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Rjj56t8/evolucion.png" group-title="→ ENTRETENIMIENTO ←",EVOLUCION
+http://38.56.113.170:8000/play/a02p
 
 
 
@@ -1552,6 +1560,12 @@ http://179.1.147.210:5000/play/a06u
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Xwhf2G/MEMORIAS-SERIES.png" group-title="→ ENTRETENIMIENTO ←",MEMORIAS SERIES
+http://38.211.145.109:8000/play/a04d
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2SZp2R/meridiano-tv.png" group-title="→ DEPORTES ←",MERIDIANO
 http://190.52.105.146:8000/play/a04v
 
@@ -1616,6 +1630,12 @@ http://179.1.147.210:5000/play/a03p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zz38V14t/netcable.png" group-title="→ ENTRETENIMIENTO ←",NET CABLE PLUS
 http://38.210.105.10:8000/play/a0ag
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prhBzPzc/netmax.png" group-title="→ ENTRETENIMIENTO ←",NETMAX
+http://38.56.113.170:8000/play/a05v
 
 
 
@@ -2148,6 +2168,12 @@ http://xxip9.top:8080/live/9174062622/blessed91799@yahoo.com/56410.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZz2246M/telenet.png" group-title="→ ENTRETENIMIENTO ←",TELENET
+http://38.56.113.170:8000/play/a00z
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKjqYKBj/telenext.png" group-title="→ ENTRETENIMIENTO ←",TELENEXT
 http://38.210.105.10:8000/play/a09m
 
@@ -2435,6 +2461,12 @@ http://200.58.83.79:2400/play/a0k1
 http://38.44.109.41:8003/play/a02l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5vyHZ2F/Ty-C-Sports.png" group-title="→ DEPORTES ←",TyC SPORTS
 http://205.235.6.29:8000/play/a0oc/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc1w4MRF/ultra.png" group-title="→ ENTRETENIMIENTO ←",ULTRA +
+http://38.56.113.170:8000/play/a010
 
 
 
@@ -3746,6 +3778,9 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxkKR5F/mZkW342.png" group-title="→ ECUADOR ←",MANAVISION TV
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7cF2Tdn/multicanal.png" group-title="→ ECUADOR ←",MULTICANAL CATAMAYO
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LDqFWC1L/naranjaltv.png" group-title="→ ECUADOR ←",NARANJAL TV
 http://160.20.165.246:8000/play/a01q
 
@@ -3765,7 +3800,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 http://160.20.165.246:8000/play/a001
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvrxNYL0/planetartv.png" group-title="→ ECUADOR ←",PLANETA RADIO TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYZn1sdd/plustv.png" group-title="→ ECUADOR ←",PLUSTV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spY2nSDH/puruwa.png" group-title="→ ECUADOR ←",PURUWA TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1023701348.m3u8
@@ -4547,6 +4585,10 @@ https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2xPzjr/rumba.png" group-title="→ PERU ←",RUMBA
 https://live-evg25.tv360.bitel.com.pe/bitel/rumbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v45vZyjG/Canal-RVP.png" group-title="→ PERU ←",RVP
+https://eu1.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="SELVA TV " tvg-logo="https://i.ibb.co/SdRhXTL/Recurso-2.png" group-title="→ PERU ←",SELVA TV
 https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-name="SEÑAL PERU TV " tvg-logo="https://i.ibb.co/VJpqJtt/1q0R6R9.png" group-title="→ PERU ←",SEÑAL PERU TV
