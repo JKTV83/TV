@@ -22,6 +22,8 @@ http://38.183.182.166:8000/play/a0xi
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbPxh7Y/AUNO.png" group-title="→ ENTRETENIMIENTO ←",A UNO TV PUNO
+http://64.76.73.50:8990/play/a004
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbPxh7Y/AUNO.png" group-title="→ ENTRETENIMIENTO ←",A UNO TV PUNO
 http://179.1.147.210:5000/play/a05x
 
 
@@ -29,7 +31,9 @@ http://179.1.147.210:5000/play/a05x
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE/SERIES ←",A&E
-http://181.188.234.21:8000/play/a043
+http://8.242.189.218:9000/play/a0ah
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE/SERIES ←",A&E HD
+http://8.242.189.218:9000/play/a097
 
 
 
@@ -551,7 +555,7 @@ http://167.250.223.27:8085/play/a00o
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fn79TrN/Cine-Familiar.png" group-title="→ CINE/SERIES ←",CINE FAMILIAR HD
-http://160.20.165.246:8000/play/a02a
+http://38.7.24.173:8000/play/a065
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj2CPw1/Cine-Hispano.png" group-title="→ CINE/SERIES ←",CINE HISPANO HD
 http://160.20.165.246:8000/play/a029
@@ -589,9 +593,7 @@ http://38.7.24.173:8000/play/a01m
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nB4jtxL/cinemaplatino.png" group-title="→ CINE/SERIES ←",CINEMA PLATINO
-http://45.228.234.173:9999/play/a03l
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nB4jtxL/cinemaplatino.png" group-title="→ CINE/SERIES ←",CINEMA PLATINO
-http://160.20.165.246:8000/play/a02e
+http://38.7.24.173:8000/play/a0b0
 
 
 
@@ -620,6 +622,10 @@ http://45.71.38.3:8010/play/a0l7
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ZgYdmd/CLC.png" group-title="→ CINE/SERIES ←",CLARO CINEMA
+http://38.7.24.173:8000/play/a01i
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ZgYdmd/CLC.png" group-title="→ CINE/SERIES ←",CLARO CINEMA
+http://38.7.24.173:8000/play/a07j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ZgYdmd/CLC.png" group-title="→ CINE/SERIES ←",CLARO CINEMA
 http://181.78.106.127:9000/play/ca084
 
@@ -700,6 +706,12 @@ http://148.72.155.144:8000/play/a030
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2dL6bJG/continentaltv.png" group-title="→ ENTRETENIMIENTO ←",CONTINENTAL TV
 http://38.199.6.67:2400/play/continental
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZZdqRmQ/copantv.png" group-title="→ ENTRETENIMIENTO ←",COPAN TV HN
+http://38.7.24.173:8000/play/a03l
 
 
 
@@ -2167,6 +2179,9 @@ http://200.115.96.61:9090/play/a0ii
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO ←",TELEMUNDO MIAMI
 http://xxip9.top:8080/live/9174062622/blessed91799@yahoo.com/56410.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO ←",TELEMUNDO NEW YORK
+http://38.7.24.173:8000/play/a05u
+
 
 
 
@@ -2506,6 +2521,13 @@ http://45.189.62.33:8002/play/a0od
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZSGLQbm/unimas.png" group-title="→ ENTRETENIMIENTO ←",UNIMAS
+http://38.7.24.173:8000/play/a069
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q7Nv2Qk/unitel.png" group-title="→ ENTRETENIMIENTO ←",UNITEL
 http://38.172.138.30:8000/play/a04h
 
@@ -2624,6 +2646,8 @@ http://38.7.24.173:8000/play/a01k
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C554XPW1/western.png" group-title="→ CINE/SERIES ←",WEST HD
+http://38.252.213.10:9000/play/a06z
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C554XPW1/western.png" group-title="→ CINE/SERIES ←",WEST
 http://179.1.147.210:5000/play/a07k
 
