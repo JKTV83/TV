@@ -1008,6 +1008,8 @@ http://157.100.9.51:8000/play/a1j1
 http://181.188.234.21:8000/play/a04u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://201.219.11.179:8005/play/a2ws
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
+http://205.235.6.29:8000/play/a0ns
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVMkTWyh/ECDF-2.png" group-title="→ DEPORTES ←",ECDF 2
 http://45.171.108.252:8000/play/a00z
@@ -1693,8 +1695,10 @@ http://45.71.254.1:8000/play/a0oh
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ ENTRETENIMIENTO ←",NITRO TV LATINO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ CINE/SERIES ←",NITRO LATINO
 http://38.210.105.10:8000/play/a09k
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ CINE/SERIES ←",NITRO HD
+http://205.235.6.29:8000/play/a0w5
 
 
 
@@ -3049,6 +3053,8 @@ https://live.andeshost.com:3214/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://f10.tv.bo/wp-content/uploads/2024/06/NUEVO-LOGO-FHD_BLANCO-170x170.png" group-title="→ BOLIVIA ←",F10 TV HD
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-logo="https://f10.tv.bo/wp-content/uploads/2024/06/NUEVO-LOGO-FHD_BLANCO-170x170.png" group-title="→ BOLIVIA ←",F10 TV HD
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Facetas_Televisi%C3%B3n.jpg" group-title="→ BOLIVIA ←",FTV
 https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
@@ -3549,6 +3555,10 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A&W TV CR " tvg-logo="https://meganettv.fun/storage/channel-logos/dzjHQNHFgajlSMioISFTodUJRLZ9e13ZReBnPwea.jpg" group-title="→ COSTA RICA ←",A&W TV CR
 https://ssh101.bozztv.com/ssh101/88channel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMvg4ydq/Bestclasicotv.png" group-title="→ COSTA RICA ←",BEST CLASICOS TV
+https://acceso.radiosportstv.online:3102/stream/play.m3u8
+
 #EXTINF:-1 tvg-name="BEXTV " tvg-logo="https://i.ibb.co/zGwyztm/433691187-1179868523417275-4132754857147088477-n.png" group-title="→ COSTA RICA ←",BEXTV
 https://video2.getstreamhosting.com:19360/8054/8054.m3u8
 #EXTINF:-1 tvg-name="CANAL 1 " tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="→ COSTA RICA ←",CANAL 1
@@ -3596,8 +3606,10 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 https://acceso.radiosportstv.online:3206/stream/play.m3u8
 #EXTINF:-1 tvg-name="GAM TV " tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="→ COSTA RICA ←",GAM TV
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GARABITO TV " tvg-logo="https://i.ibb.co/VBQdDVD/sAYNKJ8.png" group-title="→ COSTA RICA ←",GARABITO TV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBQdDVD/sAYNKJ8.png" group-title="→ COSTA RICA ←",GARABITO TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
 #EXTINF:-1 tvg-name="GUATUSO TV " tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="→ COSTA RICA ←",GUATUSO TV
 https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist_w2090486909.m3u8
 #EXTINF:-1 tvg-name="KMK TV CANAL 3 " tvg-logo="https://costaricatelevision.com/sites/default/files/2024-01/canal-3-kmk-tv-costa-rica-min.png" group-title="→ COSTA RICA ←",KMK TV CANAL 3
@@ -3762,6 +3774,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKtYq2K/Hl5wowk.png" group-title="→ ECUADOR ←",ECUAVISA
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/ecuavisaqo/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKtYq2K/Hl5wowk.png" group-title="→ ECUADOR ←",ECUAVISA
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://elsolnetworktv.com/wp-content/uploads/2020/12/Logo-elsolnetworktv-original-scaled-e1625928680906.jpg" group-title="→ ECUADOR ←",EL SOL NETWORK TV
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 
@@ -3844,7 +3859,7 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 http://45.71.3.26:8080/hls/show.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtrtv.ec/wp-content/uploads/2024/08/rtr-logo-512.png" group-title="→ ECUADOR ←",RTR TV
-https://tv3ecuador.site/hls/stream.m3u8
+https://tv3ecuador.site/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfFDbMG/PML8cJA.png" group-title="→ ECUADOR ←",RTS
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/ts:abr.m3u8
@@ -5308,3 +5323,69 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-name="RETRO CARTOON " tvg-logo="https://i.ibb.co/nMjzMwC/Pluto-TV-logo-2024-svg.png" group-title="→ PLUTO TV ←",RETRO CARTOON
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNPhMCLh/E4.png" group-title="→ VARIEDADES INT. ←",E4
+http://194.61.140.183:8085/E4/index.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV MUSIC " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3523-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV MUSIC
+https://668e2e5a0f5bb.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089267101_b1896000.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV MYSTERY " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3524-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV MYSTERY
+https://668e2e5a0f5bb.streamlock.net/energytvmystery/smil:VIVALIVETV/chunklist_w1273528542_b1896000.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3520-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV
+https://668e2e5a0f5bb.streamlock.net/energytvgold/smil:VIVALIVETV/chunklist_w2067142996_b1896000.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV HEALTH " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3521-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV HEALTH
+https://668e2e5a0f5bb.streamlock.net/energytvhealth/smil:VIVALIVETV/chunklist_w853259519_b1896000.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV LIFE " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3518-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV LIFE
+https://668e2e5a0f5bb.streamlock.net/energytvlife/smil:VIVALIVETV/chunklist_w1957289950_b1896000.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV DJ " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3522-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV DJ
+https://668e2e5a0f5bb.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w928679558_b1896000.m3u8
+#EXTINF:-1 tvg-name="ENERGY TV LATINO " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3519-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",ENERGY TV LATINO
+https://668e2e5a0f5bb.streamlock.net/energytvlatino/smil:VIVALIVETV/chunklist_w547006728_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV DJ " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV DJ
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:VIVALIVE/chunklist_w691538526_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV FASHION " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3471-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV FASHION
+https://59ec5453559f0.streamlock.net/mamivfashion/smil:VIVALIVE/chunklist_w959192142_b1500000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV FASHION " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3471-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV FASHION
+https://59ec5453559f0.streamlock.net/miamitvfashion/fashion/.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV VIP " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3471-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV VIP
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV LATINO " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV LATINO
+https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w225004297_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV LATINO " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV LATINO
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w706279025_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:VIVALIVE/chunklist_w575033684_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2136117361_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV SUNBEACH " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV SUNBEACH
+https://59ec5453559f0.streamlock.net/sunbeachtv/smil:WEB/.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV MUSIC " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV MUSIC
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:VIVALIVE/chunklist_w1514627688_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV GOLD " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3466-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV GOLD
+https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV MYSTERY " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3468-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV MYSTERY
+https://59ec5453559f0.streamlock.net/miamitvmystery/smil:VIVALIVE/chunklist_w683645166_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV LIFE " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV LIFE
+https://59ec5453559f0.streamlock.net/miamitvlife/smil:VIVALIVE/chunklist_w1854648249_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV HEALTH " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3470-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV HEALTH
+https://59ec5453559f0.streamlock.net/miamitvhealth/smil:VIVALIVE/chunklist_w742628515_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV JENNY LIVE " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV JENNY LIVE
+https://668e2e5a0f5bb.streamlock.net/JennyLiveMembers/smil:WEB3131/chunklist_w669076908_b1896000.m3u8
+#EXTINF:-1 tvg-name="MIAMI TV JENNY LIVE " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV JENNY LIVE
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w1109206666.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF1GYgr6/tvlitoralrn.png" group-title="→ VARIEDADES INT. ←",TV LITORAL RN
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvlitoralrn01/playlist.m3u8
+#EXTINF:-1 tvg-name="REVRY " tvg-logo="https://i.ibb.co/Hq9B8tj/2-bdb693af7d590b520e2355258c9c3a19-images-logo-h100-w294.png" group-title="→ VARIEDADES INT. ←",REVRY
+https://linear-43.frequency.stream/mt/brightcove/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="REVRY 2 " tvg-logo="https://i.ibb.co/Hq9B8tj/2-bdb693af7d590b520e2355258c9c3a19-images-logo-h100-w294.png" group-title="→ VARIEDADES INT. ←",REVRY 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="REVRY BRASIL " tvg-logo="https://i.ibb.co/GxHcS5J/53-c8c62f2e9b3dfa762fc4b8996dfc7dee.png" group-title="→ VARIEDADES INT. ←",REVRY BRASIL
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="REVRY HER " tvg-logo="https://i.ibb.co/hZpqzgj/54-22ab1154ad5b27999496b6dcf9ff249d.png" group-title="→ VARIEDADES INT. ←",REVRY HER
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="REVRY LATIN X " tvg-logo="https://i.ibb.co/XkZ68F3/42-e0c3183430833e55a7ee0008c08090c2.png" group-title="→ VARIEDADES INT. ←",REVRY LATIN X
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
