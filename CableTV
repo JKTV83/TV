@@ -109,6 +109,11 @@ http://45.71.254.1:8000/play/a0ab
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0k5LBRS/a21.png" group-title="→ ENTRETENIMIENTO ←",ANTENA 21 RD
+http://179.49.202.35:8237/play/a0d7
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQbfKMHw/A3Cine.png" group-title="→ CINE/SERIES ←",A3CINE
 http://38.44.109.41:8003/play/a01k
@@ -716,6 +721,13 @@ http://38.7.24.173:8000/play/a03l
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSmZ2MMy/C39.png" group-title="→ ENTRETENIMIENTO ←",CORAL 39 RD
+http://179.49.202.35:8237/play/a0bn
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLJK7jkt/cositel.png" group-title="→ ENTRETENIMIENTO ←",COSITEL TV
 http://179.1.147.210:5000/play/a063
 
@@ -1030,6 +1042,8 @@ http://205.235.6.29:8000/play/a0m6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBT49bQ/Ecuavisa.png" group-title="→ ENTRETENIMIENTO ←",ECUAVISA
 http://38.44.109.41:8003/play/a019
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBT49bQ/Ecuavisa.png" group-title="→ ENTRETENIMIENTO ←",ECUAVISA HD
+http://181.188.216.5:8011/play/a007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBT49bQ/Ecuavisa.png" group-title="→ ENTRETENIMIENTO ←",ECUAVISA
 http://181.188.234.21:8000/play/a04s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBT49bQ/Ecuavisa.png" group-title="→ ENTRETENIMIENTO ←",ECUAVISA
@@ -1282,6 +1296,8 @@ http://205.235.6.29:8000/play/a0js/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO ←",GAMAVISION
 http://38.44.109.41:8003/play/a02n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO ←",GAMAVISION HD
+http://181.188.216.5:8011/play/a00c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO ←",GAMAVISION
 http://181.188.234.21:8000/play/a05n
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ENTRETENIMIENTO ←",GAMAVISION
@@ -1550,6 +1566,12 @@ http://200.115.96.61:9090/play/a07r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/210vS9Fn/MasChic.png" group-title="→ ENTRETENIMIENTO ←",MASCHIC
 http://45.71.254.1:8000/play/a09q
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4TmFhQ9/maxtv.png" group-title="→ ENTRETENIMIENTO ←",MAXTV PE
+http://190.119.160.100:8000/play/maxtv/index.m3u8
 
 
 
@@ -2064,6 +2086,8 @@ http://38.44.109.41:8003/play/a035
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
 http://38.44.109.41:8003/play/a01d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
+http://181.188.216.5:8011/play/a008
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
 http://181.188.234.21:8000/play/a04t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
 http://205.235.6.29:8000/play/a0lt/index.m3u8
@@ -2162,6 +2186,9 @@ http://190.35.196.251:8000/play/a00o
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brx8sW-zb/Telemicro.png" group-title="→ ENTRETENIMIENTO ←",TELEMICRO RD
 http://38.44.109.41:8003/play/a02q
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx7hH39m/TELEM-INT.png" group-title="→ ENTRETENIMIENTO ←",TELEMICRO INTERNACIONAL RD
+http://179.49.202.35:8237/play/a06l
 
 
 
@@ -2399,6 +2426,8 @@ http://179.1.147.210:5000/play/a076
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
 http://38.44.109.41:8003/play/a029
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
+http://181.188.216.5:8011/play/a00b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tRbvVRQ/tvcec.png" group-title="→ ENTRETENIMIENTO ←",TVC EC
 http://205.235.6.29:8000/play/a0lw/index.m3u8
 
@@ -2718,9 +2747,6 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f41kLYh/logo-bayres-tv.png" group-title="→ ARGENTINA ←",BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4q6s0R/480px-Bigchannel.png" group-title="→ ARGENTINA ←",BIG CHANNEL
-https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLvn2n0P/batv.png" group-title="→ ARGENTINA ←",BUENOS AIRES TV
 https://s1.tvdatta.com:3994/live/buenosairestvlive.m3u8
 
@@ -2806,7 +2832,7 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://canalsj.kozow.com/canal40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf4DTscn/Casagrandetv.png" group-title="→ ARGENTINA ←",CASA GRANDE TV
-https://stream.gia.tv/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWHD5rZ/LOGO-SOLO.png" group-title="→ ARGENTINA ←",CINCO TV
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -3087,10 +3113,10 @@ https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1781710486.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="→ BOLIVIA ←",MIX BOLIVIA TV
-https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mix-bolivia-tv-bo.png" group-title="→ BOLIVIA ←",MIX BOLIVIA TV 2
-https://stream.gia.tv/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz9Fs5mL/palenque.png" group-title="→ BOLIVIA ←",PALENQUE TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
@@ -3492,6 +3518,9 @@ https://tls-cl.cdnz.cl/livertv/live/chunklist_w429679282.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/retroplay-tv.png" group-title="→ CHILE ←",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGzyyzFt/rvlr.png" group-title="→ CHILE ←",REVOLVIENDO LA RADIO
+https://live20.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPBybbC/BDKgDZG.png" group-title="→ CHILE ←",RTV ÑUBLE
 https://paneltv.online:1936/8050/8050/chunklist_w295597109.m3u8
 
@@ -3581,10 +3610,13 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL 6 REPRETEL " tvg-logo="https://i.ibb.co/0ZFX0ky/LOGOS-CANALES6-150x84.png" group-title="→ COSTA RICA ←",CANAL 6 REPRETEL
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-name="CANAL 10 COSTA RICA " tvg-logo="https://image.roku.com/developer_channels/prod/60a9c756c81ed3704081ed935c696d2e43e26f8db24001b3ef5679c8f1fecc96.png" group-title="→ COSTA RICA ←",CANAL 10 COSTA RICA
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+https://acceso.radiosportstv.online:3285/stream/play.m3u8
+
 #EXTINF:-1 tvg-name="CANAL 10.1 COSTA RICA " tvg-logo="https://image.roku.com/developer_channels/prod/60a9c756c81ed3704081ed935c696d2e43e26f8db24001b3ef5679c8f1fecc96.png" group-title="→ COSTA RICA ←",CANAL 10.1 COSTA RICA
 https://acceso.radiosportstv.online:3384/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-name="CANAL 13 " tvg-logo="https://i.ibb.co/qYZ5PRsN/canal-13.png" group-title="→ COSTA RICA ←",CANAL 13
 https://ssh101.bozztv.com/ssh101/sinart13/chunks.m3u8
 #EXTINF:-1 tvg-name="CANAL 36 TRIVISION " tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/04/cropped-LogoTR512x512-192x192.png" group-title="→ COSTA RICA ←",CANAL 36 TRIVISION
@@ -3667,8 +3699,10 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 https://video.misistemareseller.com/staytv/staytv/chunklist_w701820829.m3u8
 #EXTINF:-1 tvg-name="SARAPIQUI TV " tvg-logo="https://i.ibb.co/RYGR0QF/obTnd32.png" group-title="→ COSTA RICA ←",SARAPIQUI TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T5j4gJt/sarapiqui.png" group-title="→ COSTA RICA ←",SARAPIQUI STREAMING TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/sarapiquistreaming.cr/playlist.m3u8
+https://acceso.radiosportstv.online:3458/live/sstv2372live.m3u8
+
 #EXTINF:-1 tvg-name="TELE UNO TV " tvg-logo="https://i.ibb.co/wy8QWJ0/eRwYxc2.png" group-title="→ COSTA RICA ←",TELE UNO TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-name="TELEBRUNCA " tvg-logo="https://i.ibb.co/jR7Lcnj/m3xu6Ms.png" group-title="→ COSTA RICA ←",TELEBRUNCA
@@ -3964,8 +3998,10 @@ https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/chunklist_w476380557_vo.m3u8
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYCV5JZR/visionocc.png" group-title="→ EL SALVADOR ←",VISION OCCIDENTAL TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/votvsv214/playlist.m3u8
+
 #EXTINF:-1 tvg-name="WOW MOVIES " tvg-logo="https://i.ibb.co/5141xpW/WM.png" group-title="→ EL SALVADOR ←",WOW MOVIES
-https://fl1001.bozztv.com/ssh101/wowchannelsd/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
 #EXTINF:-1 tvg-name="WOW TV " tvg-logo="https://i.ibb.co/KxPQsdM7/wow.png" group-title="→ EL SALVADOR ←",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -5138,8 +5174,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-name="ACIION MEXICANA" tvg-logo="https://i.ibb.co/CMCcKHy/Acci-n-TUDN-Logo.jpg" group-title="→ VARIADAS LATAM ←",ACCION MEXICANA
 https://stream.ads.ottera.tv/cl/241128ct4e5quvrb6i26h0las0/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4q6s0R/480px-Bigchannel.png" group-title="→ VARIADAS LATAM ←",BIG TV
-https://stream.gia.tv/giatv/giatv-bigtv/bigtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcQ7syhh/bigtv.png" group-title="→ ARGENTINA ←",BIG TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwYCzp3h/bigtime.png" group-title="→ VARIADAS LATAM ←",BIGTIME
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6348969190b96ef5e0eb327a/variant.m3u8?x-plex-token=7J2ycWeXAhNUF31r5DgA&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=p_d9cc40e6-8ea7-45ea-9fc5-53af48af8084&x-plex-provider-streaming-start=1740431164&url=0e68309db0f9eb70de18ccff0c846c26-d29ae19caf1007313973b975f27f0f1c3844c02c422a83d37a74858958552d17de0b73c8629e6e3cb72cd9454f3d15037a5d2ee63068b201596074158cedc2ab74032331913a9cc2931e8bbccd3300aec9d4e502e74f9e9d955659e798b9ada4d96d329592a05f6958edc625624d211de103b0ba4cf01197b8696e5293ef996ec2e253b30b3016976462d86aa4292d87a65779e1706e258bd8048fe4c204838d117fbe9322cbc345fa3a1bd38ea1b68cf9c29278e734ea3e5b746f195e8dbc425bfeb18b231a1d8235eada9cb26c24a6
