@@ -320,7 +320,8 @@ http://45.71.254.1:8000/play/a0cm
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX HD
+http://38.49.128.38:8000/play/a0n6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX HD
 http://190.115.15.49:8000/play/a0ll/index.m3u8
 
@@ -650,8 +651,10 @@ http://200.229.147.142:8000/play/a07m
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4SzQXdr/classic.png" group-title="→ CINE/SERIES ←",CLASSIC +
+http://45.172.92.111:8000/play/a028
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y7D8S2D1/classic-series.png" group-title="→ CINE/SERIES ←",CLASSIC SERIES
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1JtwT6hH/classic-western.png" group-title="→ CINE/SERIES ←",CLASSIC WESTERN
 
@@ -1725,6 +1728,13 @@ http://205.235.6.29:8000/play/a0w5
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRf4n3zD/Nu9ve.png" group-title="→ ENTRETENIMIENTO ←",NU9VE
+http://45.172.92.111:8000/play/a00e
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8n826cZS/oriontv.png" group-title="→ ENTRETENIMIENTO ←",ORION TV
 http://38.199.6.67:2400/play/orion
 
@@ -2104,6 +2114,13 @@ http://38.44.109.41:8003/play/a02y
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JzBTMrm/teleantioquia.png" group-title="→ ENTRETENIMIENTO ←",TELEANTIOQUIA
+http://38.159.232.166:8000/play/a026
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQK3CtN/jPzcb2S.png" group-title="→ ENTRETENIMIENTO ←",TELEARAGUA
+http://38.172.138.30:8000/play/a03c
 
 
 
@@ -2239,7 +2256,7 @@ http://181.189.244.253:8000/play/a03i
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdGCJ5kX/TELEPACIFICO.png" group-title="→ ENTRETENIMIENTO ←",TELEPACIFICO
-
+http://177.93.46.163:8000/play/a027
 
 
 
@@ -2629,14 +2646,14 @@ http://181.188.234.21:8000/play/a03i
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cpjmj54/venevision.png" group-title="→ ENTRETENIMIENTO ←",VENEVISION
-http://190.52.105.146:8000/play/a04u
+http://38.41.8.1:8000/play/a03v
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DmF9Hb5/vr.png" group-title="→ MUSICA ←",VIDEO ROLA
-
+http://38.49.128.38:8000/play/a0b5
 
 
 
@@ -4796,8 +4813,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/tv1251master/playlist.m3u8
 #EXTINF:-1 tvg-name="PUNTO 2 " tvg-logo="https://i.ibb.co/23RcDBn/punto-2-puerto-rico-mediano.png" group-title="→ PUERTO RICO ←",PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWmQrDN2/11.png" group-title="→ PUERTO RICO ←",TELE ONCE
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TELEMUNDO PR " tvg-logo="https://i.ibb.co/syzbQBM/DVASpQj.png" group-title="→ PUERTO RICO ←",TELEMUNDO PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-name="WIPR " tvg-logo="https://i.ibb.co/M7cfcxH/MGJaxFO.png" group-title="→ PUERTO RICO ←",WIPR
 https://cprdp.pr/hls/stream/index.m3u8
