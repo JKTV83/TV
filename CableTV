@@ -141,6 +141,12 @@ http://38.44.109.41:8003/play/a02r
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWRVbPP/zgGuCYL.png" group-title="→ ENTRETENIMIENTO ←",AUSTRAL TV EC
+http://103.23.62.238:8000/play/a02b
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNcGzLKS/autonomatv.png" group-title="→ ENTRETENIMIENTO ←",AUTONOMA TV CH
 http://179.57.171.184:8000/play/a018
 
@@ -498,6 +504,12 @@ http://181.78.192.231:4000/play/a060
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QC1w2Pj/VTV-HN.png" group-title="→ ENTRETENIMIENTO ←",CANAL VTV HND
 http://38.7.24.173:8000/play/a01s
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRtBrHgq/canartv.png" group-title="→ ENTRETENIMIENTO ←",CAÑAR TV EC
+http://103.23.62.238:8000/play/a02a
 
 
 
@@ -1244,6 +1256,8 @@ http://38.183.182.166:8000/play/a12r
 http://38.183.182.166:8000/play/a12q
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLYQfvzF/fmhmovies.png" group-title="→ CINE/SERIES ←",FMH MOVIES
 http://38.210.105.10:8000/play/a07s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLYQfvzF/fmhmovies.png" group-title="→ CINE/SERIES ←",FMH MOVIES
+http://103.23.62.238:8000/play/a043
 
 
 
@@ -1560,6 +1574,13 @@ http://38.44.109.41:8003/play/a02d
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsJ1y2Z/d1GWRnm.png" group-title="→ ENTRETENIMIENTO ←",MAJESTAD TV EC
+http://103.23.62.238:8000/play/7
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kFf7bvM/martetv.png" group-title="→ ENTRETENIMIENTO ←",MARTE TELEVISION HN
 http://200.115.96.61:9090/play/a07r
 
@@ -1818,6 +1839,13 @@ http://167.250.223.27:8085/play/a00r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHr8cvwF/PicosaTV.png" group-title="→ MUSICA ←",PICOSA TV
 http://200.115.96.61:9090/play/a067
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5jcTH8r/premiertv.png" group-title="→ ENTRETENIMIENTO ←",PREMIER TV EC
+http://103.23.62.238:8000/play/a035
 
 
 
@@ -2737,6 +2765,14 @@ http://38.44.109.41:8003/play/a032
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://38.44.109.41:8003/play/a01j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://45.224.23.211:8000/play/goltv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://45.224.23.211:8000/play/a003za
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://157.100.9.51:8000/play/asd4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://157.100.9.51:8000/play/a1j1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://160.20.165.246:8000/play/a021
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://177.234.230.206:8011/play/a09z
@@ -3102,7 +3138,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Facetas_Televisi%C3%B3n.jpg" group-title="→ BOLIVIA ←",FTV
-https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
+https://master.tucableip.com/ftvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp22vSk6/gigavision.png" group-title="→ BOLIVIA ←",GIGAVISION
 https://tv.bitstreaming.net:3348/multi_web/play.m3u8
@@ -3847,6 +3883,9 @@ https://cp.panelchs.com:1936/8002/8002/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jNCJRs/Gamavision.png" group-title="→ ECUADOR ←",GAMA TV
 https://stream.esradioecuador.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bSppvGn/gaviota.png" group-title="→ ECUADOR ←",GAVIOTA TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n3Zm89m/gm7.png" group-title="→ ECUADOR ←",GM7 DIGITAL
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
