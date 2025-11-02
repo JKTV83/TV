@@ -4253,6 +4253,10 @@ https://fl1001.bozztv.com/ssh101/sulatv/tracks-v1a1/mono.m3u8
 https://amixtv.live:3267/live/tctvlive.m3u8
 #EXTINF:-1 tvg-name="TELAVISION " tvg-logo="https://i.ibb.co/gSfr5J7/vzjqAZh.png" group-title="→ HONDURAS ←",TELAVISION
 https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ HONDURAS ←",TELECADENA
+https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
+
 #EXTINF:-1 tvg-name="TELEMAS " tvg-logo="https://www.hispanatv.com/img/tv/telemas_nuevo_OK.png" group-title="→ HONDURAS ←",TELEMAS
 https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TELERAYO " tvg-logo="https://i.ibb.co/M2mk9Fq/jLQsU1u.png" group-title="→ HONDURAS ←",TELERAYO
@@ -5074,6 +5078,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/supervision/playlist.m3u8
 https://fl1002.bozztv.com/ssh101/codificador7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TELE ORIENTAL " tvg-logo="https://i.ibb.co/9chzQJG/logo192-3af52b27.png" group-title="→ REP.DOM. ←",TELE ORIENTAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBRVh2dW/tp.png" group-title="→ REP.DOM. ←",TELE PROYECTO TV
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TELE SIGLO " tvg-logo="https://i.ibb.co/R6YtLjV/screen-0.png" group-title="→ REP.DOM. ←",TELE SIGLO
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-name="TELEANTILLAS " tvg-logo="https://i.ibb.co/xCgGQSB/G1pJZkC.png" group-title="→ REP.DOM. ←",TELEANTILLAS
