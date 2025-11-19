@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdYPGP0/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO ←",4 REPRETEL
+http://38.180.133.31:8000/play/a0ol
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdYPGP0/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO ←",4 REPRETEL
 http://45.71.254.1:8000/play/a0cs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO ←",6 REPRETEL
 http://45.71.254.1:8000/play/a0br
