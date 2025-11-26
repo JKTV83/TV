@@ -3851,6 +3851,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTktZTG/1nHxdkR.png" group-title="→ ECUADOR ←",INFINITA TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvrKrhWx/TV.png" group-title="→ ECUADOR ←",ISCALI TV
+https://cloud2.streaminglivehd.com:1936/iscalitv/iscalitv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gnLFRzr/latacungatv.png" group-title="→ ECUADOR ←",LATACUNGA TV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
