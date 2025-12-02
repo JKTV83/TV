@@ -106,6 +106,13 @@ http://200.115.96.61:9090/play/a0ie
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0k5LBRS/a21.png" group-title="? ENTRETENIMIENTO ?",ANTENA 21 RD
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1R3TwY2/ATV.png" group-title="→ ENTRETENIMIENTO ←",ATV
 http://38.44.109.41:8003/play/a00r
 
@@ -212,6 +219,12 @@ http://200.58.83.79:2400/play/a0ed
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxkgHdk/CANAL1.png" group-title="→ ENTRETENIMIENTO ←",CANAL 1 COL
 http://38.44.109.41:8003/play/a020
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="→ ENTRETENIMIENTO ←",CANAL 1 HD CR
+http://190.7.192.164:8021/play/s35
 
 
 
