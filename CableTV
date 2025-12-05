@@ -157,8 +157,14 @@ http://45.5.119.43:4000/play/a026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE/SERIES ←",AZTECA CINEMA
 http://45.177.179.227:8000/play/a01g
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qmHFCG0/Azteca-Clic.png" group-title="→ CINE/SERIES ←",AZTECA CLIC HD MX
+http://45.173.74.2:2010/play/a0a3
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9YnBhj/Azteca-Corazon.png" group-title="→ ENTRETENIMIENTO ←",AZTECA CORAZON
 http://200.115.96.61:9090/play/a01c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YH7T38j/Azteca-Deportes.png" group-title="→ DEPORTES ←",AZTECA DEPORTES MX
+http://45.173.74.2:2010/play/a07g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jhtQxC/Azteca-Internacional.png" group-title="→ ENTRETENIMIENTO ←",AZTECA INTERNACIONAL
 http://38.41.8.1:8000/play/a0yf
@@ -865,6 +871,13 @@ http://103.23.62.238:8000/play/a043
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JVvX13j/france24.png" group-title="→ NOTICIAS ←",FRANCE 24
+http://45.173.74.2:2010/play/a097
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sgDN7q/FUTV.png" group-title="→ DEPORTES ←",FUTV CR
 http://179.49.202.35:8237/play/a05c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6sgDN7q/FUTV.png" group-title="→ DEPORTES ←",FUTV HD CR
@@ -969,6 +982,13 @@ http://179.49.202.35:8237/play/a03v
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y6KJzY9/KDD.png" group-title="→ NOVELAS ←",KANAL D DRAMA HD
+http://191.97.59.65:5080/play/a013
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVDrzs/Las-Estrellas.png" group-title="→ ENTRETENIMIENTO ←",LAS ESTRELLAS
 http://205.235.6.29:8000/play/13/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVDrzs/Las-Estrellas.png" group-title="→ ENTRETENIMIENTO ←",LAS ESTRELLAS HD
@@ -987,6 +1007,13 @@ http://38.44.109.41:8003/play/a01m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO ←",LATINA HD
 http://205.235.6.29:8000/play/a0uw
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpL3TvmP/liga1max.png" group-title="→ DEPORTES ←",LIGA 1 MAX PE
+http://45.173.74.2:2010/play/a08q
 
 
 
@@ -1212,6 +1239,13 @@ http://103.23.62.238:8000/play/a035
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/61qwY78/rcn.png" group-title="→ ENTRETENIMIENTO ←",RCN HD
 http://38.44.109.41:8003/play/a00y
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bskRWBs/rcn-novelas.png" group-title="→ NOVELAS ←",RCN NOVELAS
+http://45.173.74.2:2010/play/a09g
 
 
 
@@ -1447,6 +1481,14 @@ http://38.210.105.10:8000/play/a09m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hF94C1s/TLN.png" group-title="→ MUSICA ←",TELENOSTALGIA
 http://38.44.109.41:8003/play/a01r
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdGCJ5kX/TELEPACIFICO.png" group-title="→ ENTRETENIMIENTO ←",TELEPACIFICO COL
+http://45.173.74.2:2010/play/a0a2
 
 
 
