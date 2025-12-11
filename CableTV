@@ -4322,6 +4322,8 @@ https://eu1.servers10.com:8081/8050/index.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-LZIgNGsIf3/r57TZ8J6Em/237
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
 http://monstertv.site:8080/live/connie.belyeu2024@yahoo.com/mc8BkKYsgw2h&type/972316.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/2089.ts
 #EXTINF:-1 tvg-name="CANELA TV" tvg-logo="https://i.ibb.co/nPn8dxr/canelatv-logo.png" group-title="→ VARIADAS LATAM ←",CANELA TV
 https://ov-cnm-cn.ottera.tv/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index_11.m3u8
 #EXTINF:-1 tvg-name="CANELA TV CINE MEX" tvg-logo="https://i.ibb.co/nPn8dxr/canelatv-logo.png" group-title="→ VARIADAS LATAM ←",CANELA TV CINE MEX
