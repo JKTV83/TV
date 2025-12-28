@@ -1,10 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MS7FhN9/Canal-13.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 13 CL HD
+http://38.7.101.90:8000/play/a1yv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE/SERIES HD ←",A&E HD
 http://38.52.208.106:8000/play/a01x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE/SERIES HD ←",AMC HD
 http://38.52.208.106:8000/play/a01y
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27jRjWG/Am3Fn.png" group-title="→ ENTRETENIMIENTO HD ←",AMERICA TV PE HD
+http://38.7.101.90:8000/play/a1zx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQr5SWh/AXN.png" group-title="→ CINE/SERIES HD ←",AXN HD
 http://38.52.208.106:8000/play/a05y
@@ -15,6 +21,9 @@ http://38.52.208.106:8000/play/a024
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJLKPrp/animal-planet.png" group-title="→ DOCUMENTAL HD ←",ANIMAL PLANET HD
 http://38.52.208.106:8000/play/a01u
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWb7VhsM/canal-5-gt.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 5 GT HD
+http://24.152.53.3:8090/play/a009
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G7cRQW/Teletica7.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 7 CR TELETICA HD
 http://38.52.208.106:8000/play/a01r
 
@@ -23,6 +32,9 @@ http://38.52.208.106:8000/play/a066
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5H6tgK/CARTOON-NETWORK.png" group-title="→ INFANTIL/JUVENIL HD ←",CARTOON NETWORK HD
 http://38.52.208.106:8000/play/a00j
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQCxZv6/Chilevisi-n.png" group-title="→ ENTRETENIMIENTO HD ←",CHV HD
+http://38.7.101.90:8000/play/a1es
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSGR31M/CCL.png" group-title="→ CINE/SERIES HD ←",CINECANAL HD
 http://38.52.208.106:8000/play/a047
@@ -194,17 +206,35 @@ http://38.52.208.106:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO SD ←",11 REPRETEL SD
 http://38.52.208.106:8000/play/a02q
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MS7FhN9/Canal-13.png" group-title="→ ENTRETENIMIENTO SD ←",13 CL SD
+http://38.7.101.90:8000/play/a1ko
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNzkf1Y8/A-m-s-guate.png" group-title="→ ENTRETENIMIENTO SD ←",A MAS + GUATEMALA SD
+http://24.152.53.3:8090/play/a014
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE/SERIES SD ←",A&E SD
 http://38.52.208.106:8000/play/a03u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE/SERIES SD ←",AMC SD
 http://38.52.208.106:8000/play/a01i
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zK2HVt8/amc-series.png" group-title="→ CINE/SERIES SD ←",AMC SERIES SD
+http://24.152.53.3:8090/play/a01a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJLKPrp/animal-planet.png" group-title="→ DOCUMENTAL SD ←",ANIMAL PLANET SD
+http://38.7.101.90:8000/play/a1mx
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJLKPrp/animal-planet.png" group-title="→ DOCUMENTAL SD ←",ANIMAL PLANET SD
 http://38.52.208.106:8000/play/a03x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PgscLx6/Antena-Latina.png" group-title="→ ENTRETENIMIENTO SD ←",ANTENA 7 RD SD
 http://38.52.208.106:8000/play/a00u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NLtc3h1/atres.png" group-title="→ ENTRETENIMIENTO SD ←",ATRES SD
+http://38.7.101.90:8000/play/a1od
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1R3TwY2/ATV.png" group-title="→ ENTRETENIMIENTO SD ←",ATV PE SD
+http://38.7.101.90:8000/play/a1o8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9YnBhj/Azteca-Corazon.png" group-title="→ ENTRETENIMIENTO SD ←",AZ CORAZON SD
 http://38.52.208.106:8000/play/a017
@@ -214,6 +244,15 @@ http://38.52.208.106:8000/play/a03q
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vtH8qc/Azteca-Guate.png" group-title="→ ENTRETENIMIENTO SD ←",AZ TV GUA SD
 http://38.52.208.106:8000/play/a03f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfxR2Y8d/Azteca-7.png" group-title="→ ENTRETENIMIENTO SD ←",AZTECA 7 SD
+http://24.152.53.3:8090/play/a013
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWB61HZ/bandamax.png" group-title="→ MUSICA SD ←",BANDAMAX SD
+http://24.152.53.3:8090/play/a01c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wDN0b4r/bhtv.png" group-title="→ ENTRETENIMIENTO SD ←",BHTV PE SD
+http://38.7.101.90:8000/play/a1hn
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vpqfd04/Canal-2-TCS.png" group-title="→ ENTRETENIMIENTO SD ←",CANAL 2 ESA SD
 http://38.52.208.106:8000/play/a03j
@@ -266,6 +305,9 @@ http://38.52.208.106:8000/play/a02s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GKD3p9/Canal-21.png" group-title="→ ENTRETENIMIENTO SD ←",CANAL 21 ESA SD
 http://38.52.208.106:8000/play/a058
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whNcLwBf/huacho.png" group-title="→ ENTRETENIMIENTO SD ←",CANAL 36 TV HUACHO PE SD
+http://38.7.101.90:8000/play/a1hf
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NN8x1y6/Canal-Claro.png" group-title="→ ENTRETENIMIENTO SD ←",CANAL CLARO SD
 http://38.52.208.106:8000/play/a00q
 
@@ -286,6 +328,9 @@ http://38.52.208.106:8000/play/a063
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYG3p1x/CNN-en-Espa-ol.png" group-title="→ NOTICIAS SD ←",CNN ESPAÑOL SD
 http://38.52.208.106:8000/play/a01j
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES SD ←",DE PELICULA SD
+http://24.152.53.3:8090/play/a01f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES SD ←",DEPORTES TVC HND SD
 http://38.52.208.106:8000/play/a03d
@@ -316,6 +361,9 @@ http://38.52.208.106:8000/play/a05e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYxdVHC/Disney-Jr.png" group-title="→ INFANTIL/JUVENIL SD ←",DISNEY JR SD
 http://38.52.208.106:8000/play/a012
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmNJv4F/dc.png" group-title="→ ENTRETENIMIENTO SD ←",DISTRITO COMEDIA SD
+http://24.152.53.3:8090/play/a01b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZL8y28v/E.png" group-title="→ ENTRETENIMIENTO SD ←",E! SD
 http://38.52.208.106:8000/play/a03t
@@ -371,6 +419,9 @@ http://38.52.208.106:8000/play/a02x
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z751q58/Htv.png" group-title="→ MUSICA SD ←",HTV SD
 http://38.52.208.106:8000/play/a037
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/brVDrzs/Las-Estrellas.png" group-title="→ ENTRETENIMIENTO SD ←",LAS ESTRELLAS SD
+http://24.152.53.3:8090/play/a015
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1sBdzh/lifetime.png" group-title="→ CINE/SERIES SD ←",LIFETIME SD
 http://38.52.208.106:8000/play/a01c
 
@@ -397,6 +448,9 @@ http://38.52.208.106:8000/play/a05d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Zmt8WS/paramount.png" group-title="→ CINE/SERIES SD ←",PARAMOUNT HD
 http://38.52.208.106:8000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpjQ3MvH/skl.png" group-title="→ DEPORTES SD ←",SKY SPORTS LA LIGA SD
+http://24.152.53.3:8090/play/a00y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcJbMsy/sony.png" group-title="→ CINE/SERIES SD ←",SONY SD
 http://38.52.208.106:8000/play/a03r
@@ -425,6 +479,12 @@ http://38.52.208.106:8000/play/a03l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqbf4qB9/Telemundo-Int.png" group-title="→ ENTRETENIMIENTO SD ←",TELEMUNDO INTERNACIONAL SD
 http://38.52.208.106:8000/play/a016
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdQ6dfCh/teleritmo-mx.png" group-title="→ MUSICA SD ←",TELE RITMO SD
+http://24.152.53.3:8090/play/a017
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5cMFYcX/Telehit.png" group-title="→ MUSICA SD ←",TELEHIT SD
+http://24.152.53.3:8090/play/a01d
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjfzyhdW/Telesistemadominicano.png" group-title="→ ENTRETENIMIENTO SD ←",TELESISTEMA RD SD
 http://38.52.208.106:8000/play/a00v
 
@@ -433,6 +493,9 @@ http://38.52.208.106:8000/play/a02m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44nKgS6/tlc.png" group-title="→ DOCUMENTAL SD ←",TLC SD
 http://38.52.208.106:8000/play/a03z
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TggTR6J/Tlnovelas.png" group-title="→ NOVELAS SD ←",TLNOVELAS SD
+http://24.152.53.3:8090/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRr8Mm4/tnt.png" group-title="→ CINE/SERIES SD ←",TNT SD
 http://38.52.208.106:8000/play/a01h
@@ -446,8 +509,14 @@ http://38.52.208.106:8000/play/a019
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fHK37qz/tooncast.png" group-title="→ INFANTIL/JUVENIL SD ←",TOONCAST SD
 http://38.52.208.106:8000/play/a03p
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES SD ←",TUDN SD
+http://24.152.53.3:8090/play/a012
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCPns4v/universal-tv.png" group-title="→ CINE/SERIES SD ←",UNIVERSAL TV SD
 http://38.52.208.106:8000/play/a05p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO SD ←",UNIVISION SD
+http://24.152.53.3:8090/play/a019
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRhTRNw/warner-tv.png" group-title="→ CINE/SERIES SD ←",WARNER TV SD
 http://38.52.208.106:8000/play/a03s
