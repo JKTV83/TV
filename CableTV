@@ -60,6 +60,9 @@ http://38.7.101.90:8000/play/a1yz
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B3wwhtv/Comedy-Central.png" group-title="→ ENTRETENIMIENTO HD ←",COMEDY CENTRAL HD
 http://38.52.208.106:8000/play/a04f
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES HD ←",DE PELICULA HD
+http://38.7.195.45:8000/play/a044
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vWHx2B/DHE.png" group-title="→ CINE/SERIES HD ←",DHE HD
 http://38.52.208.106:8000/play/a023
 
@@ -92,6 +95,9 @@ http://38.7.101.90:8000/play/a1zp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZL8y28v/E.png" group-title="→ ENTRETENIMIENTO HD ←",E! HD
 http://38.52.208.106:8000/play/a01v
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fp5S3z5/ESPN.png" group-title="→ DEPORTES HD ←",ESPN HD
+http://38.7.101.90:8000/play/a1nq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fp5S3z5/ESPN.png" group-title="→ DEPORTES HD ←",ESPN HD
 http://38.52.208.106:8000/play/a04o
@@ -544,6 +550,15 @@ http://38.7.101.90:8000/play/a1p9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wST0S2X/Guatevision.png" group-title="→ ENTRETENIMIENTO SD ←",GUATEVISION - GUA SD
 http://38.52.208.106:8000/play/a00r
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="→ CINE/SERIES SD ←",HBO SD
+http://38.41.8.1:8000/play/a0zj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjZW5MQN/HBO-Mundi.png" group-title="→ CINE/SERIES SD ←",HBO MUNDI SD
+http://38.41.8.1:8000/play/a11e
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8kY7VJ3/HBO-Signature.png" group-title="→ CINE/SERIES SD ←",HBO SIGNATURE SD
+http://38.41.8.1:8000/play/a10a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2vf4s1/History.png" group-title="→ DOCUMENTAL SD ←",HISTORY CHANNEL SD
 http://38.52.208.106:8000/play/a03y
