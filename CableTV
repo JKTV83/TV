@@ -596,6 +596,9 @@ http://38.52.208.106:8000/play/a010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHwzS0F/nickelodeon.png" group-title="→ INFANTIL/JUVENIL SD ←",NICKELODEON SD
 http://38.52.208.106:8000/play/a05d
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/syypQNJ/ORTV.png" group-title="→ ENTRETENIMIENTO SD ←",OROMAR TV SD
+http://38.44.109.41:8003/play/a01a
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jt9kryv/uQhEDES.png" group-title="→ ENTRETENIMIENTO SD ←",PANAMERICANA SD
 http://38.7.101.90:8000/play/a1o7
 
