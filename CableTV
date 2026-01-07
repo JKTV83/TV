@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQbfKMHw/A3Cine.png" group-title="→ CINE & SERIES HD ←",A3CINE HD
+http://38.44.109.41:8003/play/a01k
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE & SERIES HD ←",A&E HD
 http://38.52.208.106:8000/play/a01x
 
@@ -54,9 +57,6 @@ http://38.52.208.106:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LvdyRMR/HBO-2.png" group-title="→ CINE & SERIES HD ←",HBO 2 HD
 http://38.52.208.106:8000/play/a00l
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MgSZqpR/hboxtreme.png" group-title="→ CINE & SERIES HD ←",HBO XTREME HD
-http://38.52.208.106:8000/play/a00o
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjdMF9w/HBO-Family.png" group-title="→ CINE & SERIES HD ←",HBO FAMILY HD
 http://38.52.208.106:8000/play/a00n
 
@@ -65,6 +65,12 @@ http://38.52.208.106:8000/play/a00m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZyyxxP/HBO-Pop.png" group-title="→ CINE & SERIES HD ←",HBO POP HD
 http://38.7.101.90:8000/play/a1xk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8kY7VJ3/HBO-Signature.png" group-title="→ CINE & SERIES HD ←",HBO SIGNATURE HD
+http://38.7.101.90:8000/play/a1of
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MgSZqpR/hboxtreme.png" group-title="→ CINE & SERIES HD ←",HBO XTREME HD
+http://38.52.208.106:8000/play/a00o
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Zmt8WS/paramount.png" group-title="→ CINE & SERIES HD ←",PARAMOUNT HD
 http://38.7.101.90:8000/play/a1yx
@@ -132,6 +138,9 @@ http://38.7.101.90:8000/play/a1fj
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRhTRNw/warner-tv.png" group-title="→ CINE & SERIES HD ←",WARNER TV HD
 http://38.52.208.106:8000/play/a045
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C554XPW1/western.png" group-title="→ CINE & SERIES HD ←",WEST HD
+http://38.252.213.10:9000/play/a06z
+
 
 
 
@@ -165,7 +174,13 @@ http://38.52.208.106:8000/play/a065
 http://38.52.208.106:8000/play/a00i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS HD
+http://38.190.101.128:2233/play/a1ey
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS HD
 http://38.199.6.67:2400/play/a00l
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES HD ←",ECDF HD
+http://205.235.6.29:8000/play/a0we
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fp5S3z5/ESPN.png" group-title="→ DEPORTES HD ←",ESPN HD
 http://38.7.101.90:8000/play/a1nq
@@ -217,6 +232,9 @@ http://38.52.208.106:8000/play/a048
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFnZTvg/Win-Sports.png" group-title="→ DEPORTES HD ←",WIN SPORTS + HD
 http://38.7.101.90:8000/play/a1z3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS HD
+http://157.100.9.51:8000/play/asd4
 
 
 
@@ -465,9 +483,6 @@ http://24.152.53.3:8090/play/a01a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zK2HVt8/amc-series.png" group-title="→ CINE & SERIES SD ←",AMC SERIES SD
 http://38.7.101.90:8000/play/a1p2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQbfKMHw/A3Cine.png" group-title="→ CINE & SERIES SD ←",A3CINE SD
-http://38.44.109.41:8003/play/a01k
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLh9Lsv/Cinelatino.png" group-title="→ CINE & SERIES SD ←",CINE LATINO SD
 http://38.52.208.106:8000/play/a05r
