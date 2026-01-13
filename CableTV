@@ -2254,6 +2254,9 @@ https://cloud2.streaminglivehd.com:1936/iscalitv/iscalitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gnLFRzr/latacungatv.png" group-title="→ ECUADOR ←",LATACUNGA TV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjDZWXmY/loretotv.png" group-title="→ ECUADOR ←",LORETO TV
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j8qmsSX/446799103-931854085406336-5823185992527754555-n.png" group-title="→ ECUADOR ←",MAGICA TV
 https://magicatv.4pu.com/hls/stream.m3u8
 
@@ -2265,6 +2268,9 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxkKR5F/mZkW342.png" group-title="→ ECUADOR ←",MANAVISION TV
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCXjTwWG/MCTV.png" group-title="→ ECUADOR ←",MARCA TV
+http://200.7.219.221:8088/live/livetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7cF2Tdn/multicanal.png" group-title="→ ECUADOR ←",MULTICANAL CATAMAYO
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
@@ -2336,6 +2342,9 @@ https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdsGPQj/339750652-234065069190405-5867313538893260208-n.png" group-title="→ ECUADOR ←",TELEMAR
 https://cloudvideo.servers10.com:8081/8148/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFbjTKJZ/tvq.png" group-title="→ ECUADOR ←",TELEVISION QUEVEDEÑA
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YwpnB2k/tengueltv.png" group-title="→ ECUADOR ←",TENGUEL TV CANAL 2
 https://stream.gia.tv/giatv/giatv-mystreamtetv/mystreamtetv/playlist.m3u8
 
@@ -2344,6 +2353,9 @@ https://troncalive.site/live/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBjHtwY/i6JTL7W.png" group-title="→ ECUADOR ←",TV AUSTRO
 https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z3Bh4KW/TVCISNE.png" group-title="→ ECUADOR ←",TV CISNE
+https://video2.lhdserver.es/tvcisne/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hP3LJSy6/tvcolor.png" group-title="→ ECUADOR ←",TV COLOR CANAL 36
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
