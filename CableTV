@@ -20,6 +20,9 @@ http://38.44.109.41:8003/play/a031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQr5SWh/AXN.png" group-title="→ CINE & SERIES HD ←",AXN HD
 http://38.52.208.106:8000/play/a05y
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA HD
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1035
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSGR31M/CCL.png" group-title="→ CINE & SERIES HD ←",CINECANAL HD
 http://38.7.101.90:8000/play/a1fg
 
@@ -49,6 +52,12 @@ http://38.44.109.41:8003/play/a02h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE & SERIES HD ←",DE PELICULA HD
 http://103.23.62.238:8000/play/a03s
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZhTwb1d/De-Pel-cula-Cl-sico.png" group-title="→ CINE & SERIES HD ←",DE PELICULA CLASICO HD
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/88251
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgqGd1Wv/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1043
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vWHx2B/DHE.png" group-title="→ CINE & SERIES HD ←",DHE HD
 http://38.52.208.106:8000/play/a023
@@ -85,6 +94,12 @@ http://38.44.109.41:8003/play/a001
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/808387g/goldenedge.png" group-title="→ CINE & SERIES HD ←",GOLDEN EDGE HD
 http://38.44.109.41:8003/play/a002
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N64jkbY/Golden-Plus.png" group-title="→ CINE & SERIES HD ←",GOLDEN PLUS HD
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1061
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndn1fnX7/Golden-Premier.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1062
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="→ CINE & SERIES HD ←",HBO HD
 http://38.52.208.106:8000/play/a00k
@@ -3989,6 +4004,8 @@ https://eu1.servers10.com:8081/8050/index.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-LZIgNGsIf3/r57TZ8J6Em/237
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
 http://monstertv.site:8080/live/connie.belyeu2024@yahoo.com/mc8BkKYsgw2h&type/972316.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/2089
 #EXTINF:-1 tvg-name="CANELA TV" tvg-logo="https://i.ibb.co/nPn8dxr/canelatv-logo.png" group-title="→ VARIADAS LATAM ←",CANELA TV
 https://ov-cnm-cn.ottera.tv/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index_11.m3u8
 #EXTINF:-1 tvg-name="CANELA TV CINE MEX" tvg-logo="https://i.ibb.co/nPn8dxr/canelatv-logo.png" group-title="→ VARIADAS LATAM ←",CANELA TV CINE MEX
@@ -4167,3 +4184,27 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?terminate=false&deviceId=ffdb0f0d-a2e9-4dab-8b8a-b68428eec1fc&deviceVersion=83.0.4103.116&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Chrome&sid=dda4410c-3666-4c43-9ff4-252f174e7fef&advertisingId=&deviceLat=19.435700&deviceLon=-99.143800&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-name="RETRO CARTOON " tvg-logo="https://i.ibb.co/nMjzMwC/Pluto-TV-logo-2024-svg.png" group-title="→ PLUTO TV ←",RETRO CARTOON
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6gBZdDN/chapulin.png" group-title="→ SERIE TV ←", EL CHAPULIN COLORADO
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/35826
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TFxMyDk/elchavo.jpg" group-title="→ SERIE TV ←", EL CHAVO DEL 8
+http://visionalista.digital:8080/live/Ruth2023/Ruth2023/42058
