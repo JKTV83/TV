@@ -53,10 +53,10 @@ http://38.44.109.41:8003/play/a02h
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE & SERIES HD ←",DE PELICULA HD
 http://103.23.62.238:8000/play/a03s
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZhTwb1d/De-Pel-cula-Cl-sico.png" group-title="→ CINE & SERIES HD ←",DE PELICULA CLASICO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6wxvP4j/De-Pel-cula-Cl-sico.png" group-title="→ CINE & SERIES HD ←",DE PELICULA CLASICO HD
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/88251
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgqGd1Wv/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QRJ1b5c/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1043
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vWHx2B/DHE.png" group-title="→ CINE & SERIES HD ←",DHE HD
@@ -583,6 +583,9 @@ http://38.44.109.41:8003/play/a01i
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B3wwhtv/Comedy-Central.png" group-title="→ ENTRETENIMIENTO HD ←",COMEDY CENTRAL HD
 http://38.7.101.90:8000/play/a1yz
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPYncjxp/Cuatro.png" group-title="→ ENTRETENIMIENTO HD ←",CUATRO HD
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/539
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ws8gWDh/Digital-Quince.png" group-title="→ ENTRETENIMIENTO HD ←",DIGITAL 15 RD HD
 http://179.49.202.35:8237/play/a0di
 
@@ -628,6 +631,12 @@ http://38.7.101.90:8000/play/a1zy
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBPhk6S/megacl.png" group-title="→ ENTRETENIMIENTO HD ←",MEGA CL HD
 http://38.7.101.90:8000/play/a1xl
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" group-title="→ ENTRETENIMIENTO HD ←",MEGA TV HD
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1167
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO HD ←",NEX HD PA
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/104965
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syypQNJ/ORTV.png" group-title="→ ENTRETENIMIENTO HD ←",OROMAR TV HD
 http://103.23.62.238:8000/play/1
 
@@ -640,17 +649,41 @@ http://190.7.192.162:8001/play/s2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 11 HD
 http://190.7.192.164:8018/play/s45
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO HD ←",RPC HD PA
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1558
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO HD ←",RPC HD PA
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1561
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ngd5H1zD/Rts.png" group-title="→ ENTRETENIMIENTO HD ←",RTS EC HD
 http://38.44.109.41:8003/play/a02e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCxcx0p/star-tve.png" group-title="→ ENTRETENIMIENTO HD ←",STAR TVE HD
 http://38.52.208.106:8000/play/a025
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgjxkGNc/Telecinco.png" group-title="→ ENTRETENIMIENTO HD ←",TELECINCO HD
+http://188.40.59.230:5100/TELE5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgjxkGNc/Telecinco.png" group-title="→ ENTRETENIMIENTO HD ←",TELECINCO HD
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/40814
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GXvthdr/telemetro.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMETRO HD PAN
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1556
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqbf4qB9/Telemundo-Int.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO INTERNACIONAL HD
 http://38.52.208.106:8000/play/a01z
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO HD ←",TVMAX HD PA
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1564
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvN7VZv/tvn-chile.png" group-title="→ ENTRETENIMIENTO HD ←",TVN CL HD
 http://38.7.101.90:8000/play/a1xi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4CTxty9/TVN-Pa.png" group-title="→ ENTRETENIMIENTO HD ←",TVN HD PAN
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/90876
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/7932
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION HD
 http://38.52.208.106:8000/play/a04y
@@ -2527,6 +2560,12 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VWP1v9R/Cuba-max-tv.png" group-title="→ CUBAMAX ←",CUBAMAX TV
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/2250
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJL2Yhhb/allytv.png" group-title="→ ECUADOR ←",ALLY TV
 https://xhateaec.com:8800/hls/visitor/visitor/64737b0a224545dcd1838e8990497d55/index.m3u8
 
@@ -3095,8 +3134,11 @@ https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="DREIKO TV " tvg-logo="https://i.ibb.co/x8wTsK0/logo-1536x1234.png" group-title="→ PANAMA ←",DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-name="HISPANIA TV " tvg-logo="https://i.ibb.co/MDZYQTC/lpVZgA4.png" group-title="→ PANAMA ←",HISPANIA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDZYQTC/lpVZgA4.png" group-title="→ PANAMA ←",HISPANIA TV
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDZYQTC/lpVZgA4.png" group-title="→ PANAMA ←",HISPANIA TV
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/289979
 
 #EXTINF:-1 tvg-name="MAS 23 TV " tvg-logo="https://i.ibb.co/dsvZb3W/y0h8dlX.png" group-title="→ PANAMA ←",MAS 23 TV
 https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
@@ -3595,6 +3637,12 @@ https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m
 #EXTINF:-1 tvg-name="TELEMUNDO PR " tvg-logo="https://i.ibb.co/syzbQBM/DVASpQj.png" group-title="→ PUERTO RICO ←",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJvbsFWs/WAPA-TV.png" group-title="→ PUERTO RICO ←",WAPA AMERICA
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1168
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJvbsFWs/WAPA-TV.png" group-title="→ PUERTO RICO ←",WAPA TV
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/193885
+
 #EXTINF:-1 tvg-name="WIPR " tvg-logo="https://i.ibb.co/M7cfcxH/MGJaxFO.png" group-title="→ PUERTO RICO ←",WIPR
 https://cprdp.pr/hls/stream/index.m3u8
 
@@ -3799,7 +3847,7 @@ https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TELE SIGLO " tvg-logo="https://i.ibb.co/R6YtLjV/screen-0.png" group-title="→ REP.DOM. ←",TELE SIGLO
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-#EXTINF:-1 tvg-name="TELEANTILLAS " tvg-logo="https://i.ibb.co/xCgGQSB/G1pJZkC.png" group-title="→ REP.DOM. ←",TELEANTILLAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RnNs12p/TELEANTILLAS.png" group-title="→ REP.DOM. ←",TELEANTILLAS
 https://f.gmsiptv.com/memfs/f56e5073-4a92-483a-92a6-f303cf994ce5_output_0.m3u8
 #EXTINF:-1 tvg-name="TELECANAL 12 " tvg-logo="https://i.ibb.co/s1N7CDr/OIP.png" group-title="→ REP.DOM. ←",TELECANAL 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
@@ -3870,10 +3918,18 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpXrkwCS/c10.png" group-title="→ URUGUAY ←",CANAL 10
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1290
+
 #EXTINF:-1 tvg-name="CHARRUA TV " tvg-logo="https://i.ibb.co/1nBfCw0/logo20-CHARRUATV-2018-edited.png" group-title="→ URUGUAY ←",CHARRUA TV
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE 8 MERCEDES " tvg-logo="https://i.ibb.co/FKhVZTg/mg7ZB9K.png" group-title="→ URUGUAY ←",TELE 8 MERCEDES
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1cMBSGq/Teledoce.png" group-title="→ URUGUAY ←",TELEDOCE
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1291
+
 #EXTINF:-1 tvg-name="VIVO TV " tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png" group-title="→ URUGUAY ←",VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
 
@@ -3898,13 +3954,21 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p64qjVd9/globaltv.png" group-title="→ VENEZUELA ←",GLOBAL TV
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDXNXK98/grandetv.png" group-title="→ VENEZUELA ←",GRANDE TV
+https://stream-usa4.hostpannel.lat:19360/grandetv/grandetv.m3u8
+
 #EXTINF:-1 tvg-name="CTV " tvg-logo="https://i.ibb.co/wN57PT49/islatv.png" group-title="→ VENEZUELA ←",ISLA TV
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KANDELA TV " tvg-logo="https://i.ibb.co/mN1Wg3f/K-azul.png" group-title="→ VENEZUELA ←",KANDELA TV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-name="LGD TV " tvg-logo="https://i.ibb.co/BKXk2RC/a9E0DTY2.png" group-title="→ VENEZUELA ←",LGD TV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKXk2RC/a9E0DTY2.png" group-title="→ VENEZUELA ←",LGD TV
 https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKXk2RC/a9E0DTY2.png" group-title="→ VENEZUELA ←",LGD TV
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/290691
+
 #EXTINF:-1 tvg-name="MAX ANIME " tvg-logo="https://i.ibb.co/SPwk2X9/Oj3hEBh.png" group-title="→ VENEZUELA ←",MAX ANIME
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-name="MIRANDA TV " tvg-logo="https://i.ibb.co/d6BxqKf/AlY38PN.png" group-title="→ VENEZUELA ←",MIRANDA TV
@@ -3953,8 +4017,14 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTPsC99X/Torococo.png" group-title="→ VENEZUELA ←",TOROCOCO TV
 https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TRV" tvg-logo="https://i.ibb.co/WkQLywJ/trv.png" group-title="→ VENEZUELA ←",TRV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkQLywJ/trv.png" group-title="→ VENEZUELA ←",TRV
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkQLywJ/trv.png" group-title="→ VENEZUELA ←",TRV
+http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/290750
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60vjcgLt/tvm.png" group-title="→ VENEZUELA ←",TVM+
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99MRyFzT/tvs.png" group-title="→ VENEZUELA ←",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
