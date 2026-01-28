@@ -637,6 +637,12 @@ http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1167
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO HD ←",NEX HD PA
 http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/104965
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO HD ←",NEX HD PA
+http://45.225.74.253:8000/play/a07
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO HD ←",NEX HD PA
+http://45.225.74.253:8000/play/a00c
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/syypQNJ/ORTV.png" group-title="→ ENTRETENIMIENTO HD ←",OROMAR TV HD
 http://103.23.62.238:8000/play/1
 
@@ -657,6 +663,9 @@ http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1561
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ngd5H1zD/Rts.png" group-title="→ ENTRETENIMIENTO HD ←",RTS EC HD
 http://38.44.109.41:8003/play/a02e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK3trm7V/Sertv.png" group-title="→ ENTRETENIMIENTO HD ←",SER TV PA HD
+http://45.225.74.253:8000/play/a007
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCxcx0p/star-tve.png" group-title="→ ENTRETENIMIENTO HD ←",STAR TVE HD
 http://38.52.208.106:8000/play/a025
