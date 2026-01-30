@@ -101,6 +101,9 @@ http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1061
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ndn1fnX7/Golden-Premier.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1062
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDQXzKN/Golden-Premier-2.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER 2 HD
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/9665
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="→ CINE & SERIES HD ←",HBO HD
 http://38.52.208.106:8000/play/a00k
 
@@ -151,6 +154,9 @@ http://45.70.201.81:8000/play/a00b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES HD ←",STUDIO UNIVERSAL HD
 http://38.7.101.90:8000/play/a1ym
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nC118GT/tcm.png" group-title="→ CINE & SERIES HD ←",TCM HD
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/9741
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRr8Mm4/tnt.png" group-title="→ CINE & SERIES HD ←",TNT HD
 http://38.7.101.90:8000/play/a1xq
@@ -681,6 +687,12 @@ http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1556
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqbf4qB9/Telemundo-Int.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO INTERNACIONAL HD
 http://38.52.208.106:8000/play/a01z
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MIAMI HD
+http://200.115.96.61:9090/play/a0ii
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MIAMI HD
+http://xxip9.top:8080/live/9174062622/blessed91799@yahoo.com/56410.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO HD ←",TVMAX HD PA
 http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/1564
@@ -4282,8 +4294,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6gBZdDN/chapulin.png" group-title="→ SERIE TV ←", EL CHAPULIN COLORADO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6gBZdDN/chapulin.png" group-title="→ SERIE TV ←",EL CHAPULIN COLORADO
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/35826
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TFxMyDk/elchavo.jpg" group-title="→ SERIE TV ←", EL CHAVO DEL 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TFxMyDk/elchavo.jpg" group-title="→ SERIE TV ←",EL CHAVO DEL 8
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/42058
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC0YKpD6/picapiedras.png" group-title="→ SERIE TV ←",LOS PICAPIEDRAS
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/162873
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC0YKpD6/picapiedras.png" group-title="→ SERIE TV ←",LOS PICAPIEDRAS
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/162912
