@@ -679,6 +679,9 @@ http://38.52.208.106:8000/play/a025
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC HD
 http://38.44.109.41:8003/play/a01d
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC HD
+http://45.173.229.190:8083/play/a0rh
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgjxkGNc/Telecinco.png" group-title="→ ENTRETENIMIENTO HD ←",TELECINCO HD
 http://188.40.59.230:5100/TELE5
 
