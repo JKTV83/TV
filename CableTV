@@ -135,7 +135,7 @@ http://200.115.96.61:9090/play/a0i0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdjQc0f/multipremier.png" group-title="→ CINE & SERIES HD ←",MULTIPREMIER HD
 http://200.115.96.61:9090/play/a03r
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ CINE & SERIES ←",NITRO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ CINE & SERIES HD ←",NITRO HD
 http://205.235.6.29:8000/play/a0w5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Zmt8WS/paramount.png" group-title="→ CINE & SERIES HD ←",PARAMOUNT HD
@@ -176,9 +176,6 @@ http://38.7.101.90:8000/play/a1ym
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES HD ←",STUDIO UNIVERSAL HD
 http://38.44.109.41:8003/play/a03e
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/23VtSRsc/TC.png" group-title="→ ENTRETENIMIENTO HD ←",TC EC HD
-http://38.44.109.41:8003/play/a00z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nC118GT/tcm.png" group-title="→ CINE & SERIES HD ←",TCM HD
 http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/9741
@@ -854,6 +851,9 @@ http://38.52.208.106:8000/play/a025
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCxcx0p/star-tve.png" group-title="→ ENTRETENIMIENTO HD ←",STAR TVE HD
 http://179.49.202.35:8237/play/a02t
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23VtSRsc/TC.png" group-title="→ ENTRETENIMIENTO HD ←",TC EC HD
+http://38.44.109.41:8003/play/a00z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC HD
 http://38.44.109.41:8003/play/a01d
