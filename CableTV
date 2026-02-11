@@ -52,6 +52,9 @@ http://38.7.101.90:8000/play/a1vc
 http://38.44.109.41:8003/play/a02h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE & SERIES HD ←",DE PELICULA HD
+http://38.49.128.38:8000/play/a0nn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE & SERIES HD ←",DE PELICULA HD
 http://103.23.62.238:8000/play/a03s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6wxvP4j/De-Pel-cula-Cl-sico.png" group-title="→ CINE & SERIES HD ←",DE PELICULA CLASICO HD
@@ -668,6 +671,9 @@ http://190.7.192.164:8023/play/s29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P6rR7F4/vostv14pa.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 13 VIVA NICARAGUA HD
 http://181.78.106.127:9000/play/a0s3
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDxn5Fz/AWLWu91.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 14 HD
+http://38.49.128.38:8000/play/a0ax
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dWbqqxP/CANAL19.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 19 ESA HD
 http://181.78.106.127:9000/play/a0s9
 
@@ -716,6 +722,9 @@ http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/539
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ws8gWDh/Digital-Quince.png" group-title="→ ENTRETENIMIENTO HD ←",DIGITAL 15 RD HD
 http://179.49.202.35:8237/play/a0di
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmNJv4F/dc.png" group-title="→ ENTRETENIMIENTO HD ←",DISTRITO COMEDIA HD
+http://38.49.128.38:8000/play/a0ou
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dmNJv4F/dc.png" group-title="→ ENTRETENIMIENTO HD ←",DISTRITO COMEDIA HD
 http://205.235.6.29:8000/play/a0mr
@@ -951,6 +960,9 @@ http://200.58.83.79:2400/play/a0k1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE HD
 http://38.44.109.41:8003/play/a00h
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE HD
+http://38.49.128.38:8000/play/a0ov
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE
 http://vik384kdmf.ddns.net:8080/live/Ruth2023/Ruth2023/7932
 
@@ -1028,6 +1040,9 @@ http://38.44.109.41:8003/play/a03b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYxdVHC/Disney-Jr.png" group-title="→ INFANTIL & JUVENIL HD ←",DISNEY JR HD
 http://45.70.201.81:8000/play/a00e
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s10V0y/dreamworks.png" group-title="→ INFANTIL & JUVENIL HD ←",DREAMWORKS HD
+http://38.49.128.38:8000/play/a0no
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHwzS0F/nickelodeon.png" group-title="→ INFANTIL & JUVENIL HD ←",NICKELODEON HD
 http://38.44.109.41:8003/play/a01s
 
@@ -1061,6 +1076,9 @@ http://38.52.208.106:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWB61HZ/bandamax.png" group-title="→ MUSICA HD ←",BANDAMAX HD
 http://38.44.109.41:8003/play/a02i
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8n0Ycp6r/caracolartv.png" group-title="→ MUSICA HD ←",CARACOLA TV HD
+http://38.49.128.38:8000/play/a0nd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCT6Lnt/MTV.png" group-title="→ MUSICA HD ←",MTV HD
 http://38.44.109.41:8003/play/a03i
 
@@ -1078,6 +1096,9 @@ http://38.44.109.41:8003/play/a02g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hF94C1s/TLN.png" group-title="→ MUSICA HD ←",TELENOSTALGIA HD
 http://38.44.109.41:8003/play/a01r
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DmF9Hb5/vr.png" group-title="→ MUSICA HD ←",VIDEO ROLA HD
+http://38.49.128.38:8000/play/a0b5
 
 
 
@@ -1189,6 +1210,9 @@ http://38.7.101.90:8000/play/a1p2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES SD ←",AZTECA CINEMA SD
 http://103.23.62.238:8000/play/a03t
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLh9Lsv/Cinelatino.png" group-title="→ CINE & SERIES SD ←",CINE LATINO SD
+http://38.49.128.38:8000/play/a0lq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLh9Lsv/Cinelatino.png" group-title="→ CINE & SERIES SD ←",CINE LATINO SD
 http://38.52.208.106:8000/play/a05r
