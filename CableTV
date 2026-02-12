@@ -22,6 +22,12 @@ http://38.44.109.41:8003/play/a031
 http://38.52.208.106:8000/play/a05y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA HD
+http://45.173.74.2:2010/play/a0aa
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA HD
+http://103.23.62.238:8000/play/a03t
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA HD
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1035
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSGR31M/CCL.png" group-title="→ CINE & SERIES HD ←",CINECANAL HD
@@ -285,7 +291,10 @@ http://38.190.101.128:2233/play/a1ez
 http://38.199.5.160:8000/play/a09q
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES HD ←",ECDF HD
-http://205.235.6.29:8000/play/a0we
+http://157.100.9.51:8000/play/a1j1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES HD ←",ECDF HD
+http://205.235.6.29:8000/play/a0ws
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fp5S3z5/ESPN.png" group-title="→ DEPORTES HD ←",ESPN HD
 http://38.7.101.90:8000/play/a1nq
@@ -589,9 +598,6 @@ http://38.41.8.1:8000/play/a03t
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfxR2Y8d/Azteca-7.png" group-title="→ ENTRETENIMIENTO HD ←",AZ 7 HD
 http://45.5.119.43:4000/play/a026
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qmHFCG0/Azteca-Clic.png" group-title="→ ENTRETENIMIENTO HD ←",AZ CLIC HD
-http://45.173.74.2:2010/play/a0a3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qmHFCG0/Azteca-Clic.png" group-title="→ ENTRETENIMIENTO HD ←",AZ CLICK HD
 http://38.52.208.106:8000/play/a024
