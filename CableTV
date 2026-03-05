@@ -4704,8 +4704,17 @@ http://visionalista.digital:8080/live/Ruth2023/Ruth2023/35826
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TFxMyDk/elchavo.jpg" group-title="→ SERIE TV ←",EL CHAVO DEL 8
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/42058
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDt4zvJ9/La-Familia-Ingalls.png" group-title="→ SERIE TV ←",LA FAMILIA INGALLS
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/177121
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dZ4g87Q/La-Tremenda-Corte.jpg" group-title="→ SERIE TV ←",LA TREMENDA CORTE
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/177119
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC0YKpD6/picapiedras.png" group-title="→ SERIE TV ←",LOS PICAPIEDRAS
 http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/162873
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC0YKpD6/picapiedras.png" group-title="→ SERIE TV ←",LOS PICAPIEDRAS
 http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/162912
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23j7z7Hv/WRT.jpg" group-title="→ SERIE TV ←",WALKER RANGER DE TEXAS
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/177134
