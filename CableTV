@@ -284,6 +284,9 @@ http://38.210.105.10:8000/play/a0ai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS HD
 http://181.78.106.127:9000/play/ca026
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS EC HD
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/88483
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS + HD
 http://38.190.101.128:2233/play/a1ez
 
@@ -409,6 +412,9 @@ http://38.44.109.41:8003/play/a01j
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS HD
 http://157.100.9.51:8000/play/asd4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS HD
+http://181.198.105.69:8111/play/a27b
 
 
 
