@@ -4695,6 +4695,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ds6M3nnN/bonanza.jpg" group-title="→ SERIE TV ←",BONANZA
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/174839
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6gBZdDN/chapulin.png" group-title="→ SERIE TV ←",EL CHAPULIN COLORADO
 http://visionalista.digital:8080/live/Ruth2023/Ruth2023/35826
 
