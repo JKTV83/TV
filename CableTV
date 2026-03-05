@@ -51,6 +51,9 @@ http://186.5.77.99:8000/play/a0hw
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ZgYdmd/CLC.png" group-title="→ CINE & SERIES HD ←",CLARO CINEMA HD
 http://181.78.106.127:9000/play/ca084
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vC0PBj8f/cinemadinamita.png" group-title="→ CINE & SERIES HD ←",CINEMA DINAMITA
+http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/9632
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1p4r6L/Clover-Channel.png" group-title="→ CINE & SERIES HD ←",CLOVER CHANNEL HD
 http://38.7.101.90:8000/play/a1vc
 
