@@ -3689,6 +3689,10 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MynZtQCK/auratv.png" group-title="→ PERU ←",AURA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/auratv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MynZtQCK/auratv.png" group-title="→ PERU ←",AURA TV
+https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8?
+
 #EXTINF:-1 tvg-name="AUTENTICA TV " tvg-logo="https://i.ibb.co/kSYhZ4Q/bEJK3RN.png" group-title="→ PERU ←",AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
@@ -3833,6 +3837,10 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-name="LIKE TV " tvg-logo="https://liketv.app/wp-content/uploads/2023/01/cropped-cropped-cropped-cropped-LIKEMARGEN.png" group-title="→ PERU ←",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5PWYwbQ/mac.png" group-title="→ PERU ←",MAC TV
+https://fsplaystreams.ddns.net/canales/1090_.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjMZGjXy/malutv.png" group-title="→ PERU ←",MALU TV
 https://live-evg25.tv360.bitel.com.pe/bitel/malutv/chunks.m3u8
 #EXTINF:-1 tvg-name="MAS1 " tvg-logo="https://i.ibb.co/yQ9pBGv/mas1.png" group-title="→ PERU ←",MAS1
