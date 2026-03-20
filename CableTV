@@ -109,7 +109,7 @@ http://38.7.101.90:8000/play/a1pc
 http://38.52.208.106:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqLNHD3Z/farwest.png" group-title="→ CINE & SERIES HD ←",FAR WEST HD
-http://187.102.195.131:8000/play/a020
+http://187.102.195.131:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLYQfvzF/fmhmovies.png" group-title="→ CINE & SERIES HD ←",FMH MOVIES HD
 http://38.210.105.10:8000/play/a07s
