@@ -120,6 +120,12 @@ http://38.7.101.90:8000/play/a1p0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDvdX5r/FILMANDARTS.png" group-title="→ CINE & SERIES HD ←",FILM & ARTS HD
 http://38.52.208.106:8000/play/a01w
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKkBX1TS/series.png" group-title="→ CINE & SERIES HD ←",FLASHBACK SERIES HD
+http://187.102.195.131:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKkBX1TS/series.png" group-title="→ CINE & SERIES HD ←",FLASHBACK SERIES HD
+http://187.102.195.131:8000/play/a022/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9FV93k/FX.png" group-title="→ CINE & SERIES HD ←",FX HD
 http://38.44.109.41:8003/play/a01g
 
@@ -150,6 +156,9 @@ http://visionalista.digital:8080/live/Ruth2023/Ruth2023/1062
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDQXzKN/Golden-Premier-2.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER 2 HD
 http://tv.zapping.life:8080/CarlosBriceno/5DS5UcE6Sd/9665
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Bvy0sm/grjngo.png" group-title="→ CINE & SERIES HD ←",GRJNGO HD
+http://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="→ CINE & SERIES HD ←",HBO HD
 http://38.52.208.106:8000/play/a00k
 
@@ -175,13 +184,13 @@ http://38.52.208.106:8000/play/a00o
 http://209.45.101.130:8000/play/a091
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qbbVV96/MEMORIAS-FILM.png" group-title="→ CINE & SERIES HD ←",MEMORIAS FILM
-http://187.102.195.131:8000/play/a01b
+http://187.102.195.131:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Xwhf2G/MEMORIAS-SERIES.png" group-title="→ ENTRETENIMIENTO HD ←",MEMORIAS SERIES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Xwhf2G/MEMORIAS-SERIES.png" group-title="→ CINE & SERIES HD ←",MEMORIAS SERIES HD
 http://38.210.105.10:8000/play/a0an
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Xwhf2G/MEMORIAS-SERIES.png" group-title="→ ENTRETENIMIENTO HD ←",MEMORIAS SERIES HD
-http://187.102.195.131:8000/play/a019
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9Xwhf2G/MEMORIAS-SERIES.png" group-title="→ CINE & SERIES HD ←",MEMORIAS SERIES HD
+http://187.102.195.131:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jT8WcsR/MC.png" group-title="→ CINE & SERIES HD ←",MULTICINEMA HD
 http://200.115.96.61:9090/play/a0i0
@@ -196,7 +205,7 @@ http://45.173.201.51:4000/play/a0mv
 http://205.235.6.29:8000/play/a0w5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp90hGMT/Canal-Panico-HD.png" group-title="→ CINE & SERIES HD ←",PANICO HD
-http://187.102.195.131:8000/play/a00q
+http://187.102.195.131:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Zmt8WS/paramount.png" group-title="→ CINE & SERIES HD ←",PARAMOUNT HD
 http://38.7.101.90:8000/play/a1yx
@@ -930,7 +939,7 @@ http://45.225.74.253:8000/play/a07
 http://45.225.74.253:8000/play/a00c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgZv759T/nex.png" group-title="→ ENTRETENIMIENTO HD ←",NEX PE HD
-http://190.108.89.228:8000/play/a0f
+http://190.108.89.228:8000/play/a0f7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YTsw4qS/nexteca.png" group-title="→ ENTRETENIMIENTO HD ←",NEXTECA HN HD
 http://200.115.96.61:9090/play/a0hu
@@ -1259,7 +1268,7 @@ http://38.44.109.41:8003/play/a02g
 http://38.44.109.41:8003/play/a01r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXBZ3wPV/tvcv.png" group-title="→ MUSICA HD ←",TVC VALLENATO
-http://187.102.195.131:8000/play/a00v
+http://187.102.195.131:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DmF9Hb5/vr.png" group-title="→ MUSICA HD ←",VIDEO ROLA HD
 http://38.49.128.38:8000/play/a0b5
