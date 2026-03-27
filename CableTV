@@ -181,6 +181,12 @@ http://38.52.208.106:8000/play/a065
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS HD
 http://15.204.146.163:8001/play/a00m
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS HD
+http://38.190.101.128:2233/play/a1ey
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DIRECTV SPORTS + HD
+http://38.190.101.128:2233/play/a1ez
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES HD ←",ECDF HD
 http://157.100.9.51:8000/play/a1vp
 
